@@ -1,0 +1,11 @@
+.DS_Store
+
+# Working extraction files kept locally, not needed for the published survey.
+*.csv
+*.html
+*.js
+memmo_pages/
+
+!survey-site/**/*.html
+!survey-site/**/*.js
+!index.html

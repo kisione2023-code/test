@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Опрос по актерам и авторам кино</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="topbar" aria-label="Статус опроса">
+        <div>
+          <p class="eyebrow">Опрос</p>
+          <h1>Актеры, режиссеры, сценаристы и продюсеры</h1>
+        </div>
+        <div class="progress-card">
+          <span id="progressText">0 / 0</span>
+          <div class="progress-track" aria-hidden="true">
+            <div id="progressFill"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="intro" class="panel">
+        <div class="intro-grid">
+          <div>
+            <h2>Кого вы знаете и кто вам нравится?</h2>
+            <p>
+              Сначала отметьте, знакомо ли вам имя. Если да, появится шкала оценки от 1 до 5.
+            </p>
+          </div>
+          <label class="respondent">
+            <span>Имя или код респондента</span>
+            <input id="respondentId" type="text" autocomplete="name" placeholder="необязательно" />
+          </label>
+        </div>
+        <button id="startButton" class="primary" type="button">Начать</button>
+      </section>
+
+      <section id="survey" class="survey hidden" aria-live="polite">
+        <div class="block-head">
+          <div>
+            <p id="blockKicker" class="eyebrow"></p>
+            <h2 id="blockTitle"></h2>
+          </div>
+          <span id="blockCount" class="counter"></span>
+        </div>
+
+        <article id="personCard" class="person-card"></article>
+
+        <div class="nav-row">
+          <button id="backButton" class="secondary" type="button">Назад</button>
+          <button id="nextButton" class="primary" type="button">Дальше</button>
+        </div>
+      </section>
+
+      <section id="favorites" class="survey hidden" aria-live="polite">
+        <div class="block-head">
+          <div>
+            <p class="eyebrow">Финальный вопрос</p>
+            <h2>Выберите 3 самых любимых</h2>
+          </div>
+          <span id="favoritesCount" class="counter">0 / 3</span>
+        </div>
+        <p class="favorites-note">
+          Ниже только те люди, которым вы поставили 4 или 5. Выберите трех, кто нравится больше всего.
+        </p>
+        <div id="favoritesGrid" class="favorites-grid"></div>
+        <div class="nav-row">
+          <button id="favoritesBackButton" class="secondary" type="button">Назад</button>
+          <button id="favoritesDoneButton" class="primary" type="button">Завершить</button>
+        </div>
+      </section>
+
+      <section id="done" class="panel hidden">
+        <h2>Спасибо, ответы готовы</h2>
+        <p>
+          Для GitHub Pages без сервера результат можно скачать файлом. Для сбора ответов от многих людей
+          подключается Google Sheets endpoint.
+        </p>
+        <div class="download-row">
+          <button id="downloadCsv" class="primary" type="button">Скачать CSV</button>
+          <button id="downloadJson" class="secondary" type="button">Скачать JSON</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="config.js"></script>
+    <script src="data/people.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -4903,7 +4903,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/videogram/actors_p2_21.jpg"
+    "image": "assets/people/andrey-kryzhniy.jpg",
+    "imageSource": "https://www.kino-teatr.ru/acter/foto/ros/353821.jpg"
   },
   {
     "id": "e8764993ed9a",
@@ -4919,7 +4920,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/videogram/actors_p2_15.jpg"
+    "image": "assets/people/anton-zhizhin.jpg",
+    "imageSource": "https://www.kino-teatr.ru/acter/foto/ros/524563.jpg"
   },
   {
     "id": "04199ef85c63",
@@ -5042,8 +5044,8 @@ window.SURVEY_PEOPLE = [
   },
   {
     "id": "6d453d1ccb73",
-    "name": "Лом",
-    "title": "Поэт, актер, баскетбо...",
+    "name": "Александр Ряполов (Лом)",
+    "title": "Поэт, актер, баскетболист",
     "market": "russian",
     "group": "actors",
     "roles": [
@@ -5104,7 +5106,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/videogram/actors_p2_11.jpg"
+    "image": "assets/people/maryana-spivak.jpg",
+    "imageSource": "https://www.kino-teatr.ru/acter/foto/ros/7319.jpg"
   },
   {
     "id": "411f37e2fe86",
@@ -5126,7 +5129,7 @@ window.SURVEY_PEOPLE = [
   {
     "id": "1b45ab55c0b5",
     "name": "Олег Тактаров",
-    "title": "емнион UFC , актер ...",
+    "title": "Актер",
     "market": "russian",
     "group": "actors",
     "roles": [
@@ -5159,7 +5162,7 @@ window.SURVEY_PEOPLE = [
   },
   {
     "id": "ac5d51fb6e4c",
-    "name": "Шура Каретный",
+    "name": "Александр Пожаров (Шура Каретный)",
     "title": "Актёр, Певец, Ведущий",
     "market": "russian",
     "group": "actors",

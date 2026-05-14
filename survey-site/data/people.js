@@ -4852,7 +4852,8 @@ window.SURVEY_PEOPLE = [
     "source": "Videogram",
     "url": "",
     "image": "assets/people/8b0dd60e22.jpg",
-    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/ros/2716/foto/"
+    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/ros/4098/foto/1145926/",
+    "imageNote": "Александр Мартынов (Стекольников), Универ"
   },
   {
     "id": "2088f2322fc6",
@@ -5020,7 +5021,7 @@ window.SURVEY_PEOPLE = [
     "source": "Videogram",
     "url": "",
     "image": "assets/people/cf32d99398.jpg",
-    "imageSource": "https://dmitry-kalistratov.ru/"
+    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/ros/297512/foto/"
   },
   {
     "id": "d78104eea659",
@@ -5236,6 +5237,7 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/videogram/director_p1_11.jpg"
+    "image": "assets/people/cf32d99398.jpg",
+    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/ros/297512/foto/"
   }
 ];

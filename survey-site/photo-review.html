@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Проверка фото</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      .review-page {
+        width: min(1200px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 28px 0 44px;
+      }
+
+      .review-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 14px;
+      }
+
+      .review-card {
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+      }
+
+      .review-card img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        object-fit: cover;
+        background: #2c3436;
+      }
+
+      .review-body {
+        display: grid;
+        gap: 6px;
+        padding: 12px;
+      }
+
+      .review-name {
+        font-weight: 900;
+      }
+
+      .review-title,
+      .review-source {
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.35;
+      }
+
+      .review-source a {
+        color: var(--accent);
+        overflow-wrap: anywhere;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="review-page">
+      <p class="eyebrow">Проверка</p>
+      <h1>Русские фото в анкете</h1>
+      <p>Открой эту страницу и проверь, где фото не совпадает с человеком. Можно прислать мне список имен.</p>
+      <div id="reviewGrid" class="review-grid"></div>
+    </main>
+
+    <script src="data/people.js"></script>
+    <script>
+      const grid = document.getElementById("reviewGrid");
+      const people = (window.SURVEY_PEOPLE || []).filter((person) => person.market === "russian");
+      grid.innerHTML = people.map((person) => `
+        <article class="review-card">
+          <img src="${person.image}" alt="${person.name}">
+          <div class="review-body">
+            <div class="review-name">${person.name}</div>
+            <div class="review-title">${person.title}</div>
+            <div class="review-source">
+              ${person.imageSource ? `<a href="${person.imageSource}" target="_blank" rel="noreferrer">источник фото</a>` : "фото из PDF Videogram"}
+            </div>
+          </div>
+        </article>
+      `).join("");
+    </script>
+  </body>
+</html>

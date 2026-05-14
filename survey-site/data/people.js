@@ -4988,8 +4988,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/people/9ac89e95b1.jpg",
-    "imageSource": "https://www.vokrug.tv/person/show/16047312941/"
+    "image": "assets/people/gleb-danilov.jpg",
+    "imageSource": "user-provided image"
   },
   {
     "id": "2663eb681298",
@@ -5005,8 +5005,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/people/d48dd484ec.jpg",
-    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/ros/23040/bio/"
+    "image": "assets/people/denis-kosyakov.jpg",
+    "imageSource": "user-provided image"
   },
   {
     "id": "26a60fa120c7",
@@ -5056,8 +5056,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/people/b368b51906.jpg",
-    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/star/471030/foto/844914/"
+    "image": "assets/people/alexander-ryapolov-lom.jpg",
+    "imageSource": "user-provided image"
   },
   {
     "id": "2904ebf507f9",
@@ -5174,8 +5174,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/people/f892694176.jpg",
-    "imageSource": "https://24smi.org/celebrity/27789-shura-karetnyi.html"
+    "image": "assets/people/alexander-pozharev.jpg",
+    "imageSource": "user-provided image"
   },
   {
     "id": "718883a589a4",
@@ -5223,8 +5223,8 @@ window.SURVEY_PEOPLE = [
     "delivery": "24 ч.",
     "source": "Videogram",
     "url": "",
-    "image": "assets/people/9ac89e95b1.jpg",
-    "imageSource": "https://www.vokrug.tv/person/show/16047312941/"
+    "image": "assets/people/gleb-danilov.jpg",
+    "imageSource": "user-provided image"
   },
   {
     "id": "66420fc5ed81",

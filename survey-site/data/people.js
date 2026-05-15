@@ -5560,22 +5560,6 @@ window.SURVEY_PEOPLE = [
     "image": "https://memmo-live-attachments-live.imgix.net/a7e2067a-5469-4f99-8855-88312c876fbd/a7e2067a-5469-4f99-8855-88312c876fbd-processed.jpeg?auto=format&w=265&h=458&fit=crop"
   },
   {
-    "id": "4c02c45c8863",
-    "name": "Allan McLeod",
-    "title": "Actor & Writer - You're The Worst, Drunk History, Horse Girl",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "writer"
-    ],
-    "price": 13,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/allan-mcleod?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f93945d4-a356-41af-9f35-a007b8329064/f93945d4-a356-41af-9f35-a007b8329064-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
     "id": "6519fb959038",
     "name": "Bill Oakley",
     "title": "TV Writer, Food Creator & Former Showrunner of The Simpsons",
@@ -5606,39 +5590,6 @@ window.SURVEY_PEOPLE = [
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/brent-butt?profileProduct=video-request-express-delivery",
     "image": "https://memmo-live-attachments-live.imgix.net/f1a553f6-65bb-4c31-b1c0-d814d0786dbd/f1a553f6-65bb-4c31-b1c0-d814d0786dbd-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
-    "id": "b9d0073644b5",
-    "name": "Brooke Lewis Bellas",
-    "title": "Actress & Producer - iMurders, Sinatra Club & more",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "producer"
-    ],
-    "price": 41,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/brooke-lewis-bellas?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c643f78b-c5a2-4ea4-81f6-2e285e78e223/c643f78b-c5a2-4ea4-81f6-2e285e78e223-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
-    "id": "5ef94afa0faa",
-    "name": "Chris Romano (Romanski)",
-    "title": "Actor, Writer, Producer - Blue Mountain State & more",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "writer",
-      "producer"
-    ],
-    "price": 75,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/chris-romano?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/2f46801f-598d-4838-8a97-f48c70f36304/2f46801f-598d-4838-8a97-f48c70f36304-processed.jpeg?auto=format&w=265&h=458&fit=crop"
   },
   {
     "id": "cc588fd99419",
@@ -5691,23 +5642,6 @@ window.SURVEY_PEOPLE = [
     "image": "https://memmo-live-attachments-live.imgix.net/cc4b0f8f-fa36-4cb2-83f4-08cc440f3698/cc4b0f8f-fa36-4cb2-83f4-08cc440f3698-processed.jpeg?auto=format&w=265&h=458&fit=crop"
   },
   {
-    "id": "1f5f40ee03d3",
-    "name": "Natasha Blasick",
-    "title": "Actress, Producer & Writer - Death of Evil & more",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "writer",
-      "producer"
-    ],
-    "price": 12,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/natasha-blasick?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9c1df1df-bc29-4a9e-9a61-d1cca576684e/9c1df1df-bc29-4a9e-9a61-d1cca576684e-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
     "id": "06332c59e058",
     "name": "Ricardo Matos",
     "title": "Actor, Comedian & Screenwriter",
@@ -5722,56 +5656,6 @@ window.SURVEY_PEOPLE = [
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ricardo-matos?profileProduct=video-request-express-delivery",
     "image": "https://memmo-live-attachments-live.imgix.net/955a249d-fa41-4442-8382-fa093f959cc0/955a249d-fa41-4442-8382-fa093f959cc0-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
-    "id": "ad5737762da0",
-    "name": "Robert R Shafer",
-    "title": "Actor & Writer - The Office & more",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "writer"
-    ],
-    "price": 5,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/robert-r-shafer?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/0be98081-bc59-441c-b2fe-a4f10f66406d/0be98081-bc59-441c-b2fe-a4f10f66406d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
-    "id": "5fe77e37ab95",
-    "name": "Steven Wishnoff",
-    "title": "Actor, Writer & Producer - HBO's OZ, Crimson Chin & more",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "writer",
-      "producer"
-    ],
-    "price": 17,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/steven-wishnoff?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b8d66d9c-dfbe-49e2-8306-95bf1c03f848/b8d66d9c-dfbe-49e2-8306-95bf1c03f848-processed.jpeg?auto=format&w=265&h=458&fit=crop"
-  },
-  {
-    "id": "626d095df7e4",
-    "name": "Zak Knutson",
-    "title": "Actor, Writer and Director - Clerks II",
-    "market": "international",
-    "group": "makers",
-    "roles": [
-      "director",
-      "writer"
-    ],
-    "price": 30,
-    "currency": "USD",
-    "delivery": "Within 24 hours",
-    "source": "Memmo",
-    "url": "https://memmo.me/global/en/profile/zak-knutson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a7e2067a-5469-4f99-8855-88312c876fbd/a7e2067a-5469-4f99-8855-88312c876fbd-processed.jpeg?auto=format&w=265&h=458&fit=crop"
   },
   {
     "id": "a657b509bb57",
@@ -6144,39 +6028,5 @@ window.SURVEY_PEOPLE = [
     "source": "Videogram",
     "url": "",
     "image": "assets/videogram/producer_p1_4.jpg"
-  },
-  {
-    "id": "3fb313a22108",
-    "name": "Данилов ГЛЕБ",
-    "title": "Актер, продюсер",
-    "market": "russian",
-    "group": "makers",
-    "roles": [
-      "producer"
-    ],
-    "price": 3000,
-    "currency": "RUB",
-    "delivery": "24 ч.",
-    "source": "Videogram",
-    "url": "",
-    "image": "assets/people/gleb-danilov.jpg",
-    "imageSource": "user-provided image"
-  },
-  {
-    "id": "66420fc5ed81",
-    "name": "Дмитрий Калистратов",
-    "title": "Актер, Режиссер",
-    "market": "russian",
-    "group": "makers",
-    "roles": [
-      "director"
-    ],
-    "price": 3000,
-    "currency": "RUB",
-    "delivery": "24 ч.",
-    "source": "Videogram",
-    "url": "",
-    "image": "assets/people/cf32d99398.jpg",
-    "imageSource": "https://www.kino-teatr.ru/kino/acter/m/ros/297512/foto/"
   }
 ]

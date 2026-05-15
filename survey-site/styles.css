@@ -162,12 +162,17 @@ button {
   cursor: pointer;
 }
 
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.48;
+}
+
 .primary {
   background: var(--accent);
   color: #fff;
 }
 
-.primary:hover {
+.primary:hover:not(:disabled) {
   background: var(--accent-dark);
 }
 
@@ -177,7 +182,7 @@ button {
   color: var(--ink);
 }
 
-.secondary:hover {
+.secondary:hover:not(:disabled) {
   border-color: #b9b0a1;
 }
 

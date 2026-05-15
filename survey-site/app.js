@@ -51,6 +51,9 @@
   });
 
   document.getElementById("nextButton").addEventListener("click", () => {
+    const current = sequence[state.index];
+    if (!current || !(state.answers[current.person.id] || {}).known) return;
+
     if (state.index < sequence.length - 1) {
       state.index += 1;
       render();
@@ -142,7 +145,9 @@
     });
 
     document.getElementById("backButton").disabled = state.index === 0;
-    document.getElementById("nextButton").textContent = state.index === sequence.length - 1 ? "Завершить" : "Дальше";
+    const nextButton = document.getElementById("nextButton");
+    nextButton.disabled = !answer.known;
+    nextButton.textContent = state.index === sequence.length - 1 ? "Завершить" : "Дальше";
     updateProgress();
   }
 

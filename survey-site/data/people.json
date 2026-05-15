@@ -8,7 +8,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -24,7 +24,7 @@
     "roles": [
       "actor"
     ],
-    "price": 190.0,
+    "price": 190,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -45,7 +45,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/alan-fletcher?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/043f6727-4994-491e-ad16-a2d217ec95eb/043f6727-4994-491e-ad16-a2d217ec95eb-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Alan_Fletcher_2001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q2138113",
+    "imageFile": "Alan Fletcher 2001.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Tim Parkinson",
+    "imageCredit": "https://www.flickr.com/photos/timparkinson/103490800",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9c40b54596a4",
@@ -56,7 +62,7 @@
     "roles": [
       "actor"
     ],
-    "price": 13.0,
+    "price": 13,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -72,12 +78,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/alysia-reiner?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/33086bfc-1dac-47d5-b9ce-c4f0154356d1/33086bfc-1dac-47d5-b9ce-c4f0154356d1-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alysia_Reiner_2017_%28cropped%29.jpg/960px-Alysia_Reiner_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q450344",
+    "imageFile": "Alysia Reiner 2017 (cropped).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Collision Conf",
+    "imageCredit": "https://www.flickr.com/photos/collisionconf/33644471353/in/photolist-Tg3Hbi-TUCGFC-9iANYL-9iASE9-9iASBo-9ixHr8-UuBUNX-TUCGj5-UqXxQE-TUCKUm-TUAB1y-Tg3HKK-UuBVpr-Tg3HGD-Ui6zwT-TUCGto",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "71ddd7b6dc62",
@@ -88,7 +100,7 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -104,12 +116,18 @@
     "roles": [
       "actor"
     ],
-    "price": 24.0,
+    "price": 24,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ambyr-childers?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/5c8838f0-c5d3-4e5f-bafa-2fba4c27ccc1/5c8838f0-c5d3-4e5f-bafa-2fba4c27ccc1-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Actress_Ambyr_Childers.jpg/960px-Actress_Ambyr_Childers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q4742029",
+    "imageFile": "Actress Ambyr Childers.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "MiamiFilmFestival",
+    "imageCredit": "https://www.flickr.com/photos/55155430@N03/5503601768/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "2ced9dbaea56",
@@ -120,12 +138,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/andrew-francis?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/fa5f5a97-a2bf-436b-8b85-4c0bd9402761/fa5f5a97-a2bf-436b-8b85-4c0bd9402761-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Andrew_Francis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3183170",
+    "imageFile": "Andrew Francis.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Dogman15",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9e3e9d844237",
@@ -141,7 +165,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/andy-secombe?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/6083da8a-e8e4-4600-9a21-5f12cbb55ea5/6083da8a-e8e4-4600-9a21-5f12cbb55ea5-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Andy_Secombe_%287283016042%29.jpg/960px-Andy_Secombe_%287283016042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q2742666",
+    "imageFile": "Andy Secombe (7283016042).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Gordon Tarpley from Tampa, USA",
+    "imageCredit": "IMG_7054",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1fcdfdf7919b",
@@ -152,12 +182,18 @@
     "roles": [
       "actor"
     ],
-    "price": 35.0,
+    "price": 35,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ashley-williams?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/685c1b6d-1b26-4621-b116-8752cf166206/685c1b6d-1b26-4621-b116-8752cf166206-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ashley_Williams_at_Every_Day_premiere.jpg/960px-Ashley_Williams_at_Every_Day_premiere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q435839",
+    "imageFile": "Ashley Williams at Every Day premiere.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Jay Valena / Retna Ltd.",
+    "imageCredit": "Ashley Williams",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "03919d38091c",
@@ -189,7 +225,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/bai-ling?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/5966b40f-31e8-4d08-9844-fce4729d936c/5966b40f-31e8-4d08-9844-fce4729d936c-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bai_Ling_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q464612",
+    "imageFile": "Bai Ling 2007.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Toglenn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9f0a4c69c23d",
@@ -200,12 +242,18 @@
     "roles": [
       "actor"
     ],
-    "price": 90.0,
+    "price": 90,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/barry-corbin?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/0f4e7859-83d5-445d-afe3-77dc086ca784/0f4e7859-83d5-445d-afe3-77dc086ca784-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Barry_Corbin_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q607678",
+    "imageFile": "Barry Corbin 1993.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Alan Light",
+    "imageCredit": "Flickr",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "48938f4cb096",
@@ -216,12 +264,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/bart-johnson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/7907c639-69ca-4f0c-8149-e3138dd4a56c/7907c639-69ca-4f0c-8149-e3138dd4a56c-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Johnson_Bart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1369157",
+    "imageFile": "Johnson Bart.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Thekingdude007",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "b5a8812ebee4",
@@ -264,7 +318,7 @@
     "roles": [
       "actor"
     ],
-    "price": 35.0,
+    "price": 35,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -280,7 +334,7 @@
     "roles": [
       "actor"
     ],
-    "price": 38.0,
+    "price": 38,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -296,12 +350,18 @@
     "roles": [
       "actor"
     ],
-    "price": 34.0,
+    "price": 34,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/bill-chott?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/60443982-0a1f-475e-bd0f-42094e8cf824/60443982-0a1f-475e-bd0f-42094e8cf824-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bill_Chott_2008.jpg/960px-Bill_Chott_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q2903160",
+    "imageFile": "Bill Chott 2008.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "binkle ̠28",
+    "imageCredit": "https://www.flickr.com/photos/binkle76/2637127767/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "d45d3ba65b12",
@@ -312,7 +372,7 @@
     "roles": [
       "actor"
     ],
-    "price": 0.0,
+    "price": 0,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -328,12 +388,18 @@
     "roles": [
       "actor"
     ],
-    "price": 150.0,
+    "price": 150,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/bdw?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f0bfa36c-de6a-4e49-9c14-e9fa9a0c1d9c/f0bfa36c-de6a-4e49-9c14-e9fa9a0c1d9c-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Billy_Dee_Williams_by_Gage_Skidmore.jpg/960px-Billy_Dee_Williams_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q358345",
+    "imageFile": "Billy Dee Williams by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9c93feb861e6",
@@ -344,7 +410,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -360,12 +426,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/bonnie-somerville?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/840e2091-8321-48d7-9e1c-4e45a76c3456/840e2091-8321-48d7-9e1c-4e45a76c3456-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bonnie_Somerville_adjusted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q262332",
+    "imageFile": "Bonnie Somerville adjusted.jpg",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageArtist": "derivative work: Tabercil (talk) Bonnie_Somerville.JPG: lukeford.net",
+    "imageCredit": "Bonnie_Somerville.JPG",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "ccfd9c6aa589",
@@ -376,7 +448,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -392,7 +464,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -408,12 +480,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/brendan-fehr?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a841170e-75bd-4cf7-a9e6-cdb96e147018/a841170e-75bd-4cf7-a9e6-cdb96e147018-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brendan_Fehr.jpg/960px-Brendan_Fehr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q707823",
+    "imageFile": "Brendan Fehr.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Kristin Dos Santos from Los Angeles, California, United States",
+    "imageCredit": "Brendan Fehr",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "d28385c38e4c",
@@ -440,7 +518,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -456,12 +534,18 @@
     "roles": [
       "actor"
     ],
-    "price": 41.0,
+    "price": 41,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/brooke-lewis-bellas?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c643f78b-c5a2-4ea4-81f6-2e285e78e223/c643f78b-c5a2-4ea4-81f6-2e285e78e223-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Brooke_Lewis_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q27672944",
+    "imageFile": "Brooke Lewis 2016.png",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "thepaparazzigamer",
+    "imageCredit": "Brooke Lewis giving Thanksgiving Dinner to the homeless at LA Mission in Los Angeles",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "dc60d99f8dda",
@@ -472,7 +556,7 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -488,7 +572,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -504,7 +588,7 @@
     "roles": [
       "actor"
     ],
-    "price": 90.0,
+    "price": 90,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -520,7 +604,7 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -536,7 +620,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -552,7 +636,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -568,12 +652,18 @@
     "roles": [
       "actor"
     ],
-    "price": 35.0,
+    "price": 35,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/catherine-stewart?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/4b6b752e-dbe8-492a-b871-a672f0318848/4b6b752e-dbe8-492a-b871-a672f0318848-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Catherine_Mary_Stewart_at_the_Chiller_Theatre_Expo_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q468601",
+    "imageFile": "Catherine Mary Stewart at the Chiller Theatre Expo 2017.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Rob DiCaterino",
+    "imageCredit": "https://www.flickr.com/photos/goodrob13/24385813988/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a80b2c446a0a",
@@ -589,7 +679,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/chantelle-barry?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a8d2d463-5f53-43f4-8d66-f8aa78f71352/a8d2d463-5f53-43f4-8d66-f8aa78f71352-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chantelle_Barry_01_25_2015_-4_%2817046841461%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q5072641",
+    "imageFile": "Chantelle Barry 01 25 2015 -4 (17046841461) (cropped).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Justin Higuchi from Los Angeles, CA, USA",
+    "imageCredit": "Chantelle Barry 01/25/2015 #4",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "7c39c4f3b388",
@@ -600,12 +696,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/charlie-schlatter?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/055a28a2-6a6e-4b89-b75f-18acec232dae/055a28a2-6a6e-4b89-b75f-18acec232dae-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Charlie_Schlatter_%2841695584254%29.jpg/960px-Charlie_Schlatter_%2841695584254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1067007",
+    "imageFile": "Charlie Schlatter (41695584254).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "https://www.flickr.com/photos/greg2600",
+    "imageCredit": "https://www.flickr.com/photos/greg2600/41695584254/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "3369468d709b",
@@ -616,7 +718,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -632,7 +734,7 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -653,7 +755,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/chris-sarandon?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9fc5e70d-c89b-4a5d-a59e-8dc109a8fbba/9fc5e70d-c89b-4a5d-a59e-8dc109a8fbba-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Chris_Sarandon_July_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q363684",
+    "imageFile": "Chris Sarandon July 2017.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Florida Supercon",
+    "imageCredit": "https://www.flickr.com/photos/floridasupercon/36141824641/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "02548665ea6a",
@@ -664,7 +772,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -680,7 +788,7 @@
     "roles": [
       "actor"
     ],
-    "price": 59.0,
+    "price": 59,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -712,7 +820,7 @@
     "roles": [
       "actor"
     ],
-    "price": 125.0,
+    "price": 125,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -728,12 +836,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ciara-hanna?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/7571f5ed-9dd7-4949-8daf-2b33574301f0/7571f5ed-9dd7-4949-8daf-2b33574301f0-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ciara_Hanna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q16233716",
+    "imageFile": "Ciara Hanna.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "RealTVFilms",
+    "imageCredit": "PERNICIOUS star, Ciara Hanna, Red Carpet Arrival",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "e47e1d551cc5",
@@ -744,12 +858,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/claudia-christian?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/18b7ce0d-4051-4e2d-ab4d-ced0d7412027/18b7ce0d-4051-4e2d-ab4d-ced0d7412027-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Honl_claudiachristian_headshot20090.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q241909",
+    "imageFile": "Honl claudiachristian headshot20090.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Davidhonl",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "7af637ba8842",
@@ -760,7 +880,7 @@
     "roles": [
       "actor"
     ],
-    "price": 6.0,
+    "price": 6,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -776,7 +896,7 @@
     "roles": [
       "actor"
     ],
-    "price": 13.0,
+    "price": 13,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -792,12 +912,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/corbin-bernsen?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/de77bc21-ae9f-453e-9a60-272d9fd3ab6f/de77bc21-ae9f-453e-9a60-272d9fd3ab6f-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Corbin_Bernsen_%2825219505510%29.jpg/960px-Corbin_Bernsen_%2825219505510%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q737183",
+    "imageFile": "Corbin Bernsen (25219505510).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Paula R. Lively from Zanesville",
+    "imageCredit": "Wizard World Cleveland,Ohio 2-2016",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "598deeda1fe0",
@@ -808,12 +934,18 @@
     "roles": [
       "actor"
     ],
-    "price": 125.0,
+    "price": 125,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/corey-feldman?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/0134d959-bedb-4729-ac22-c3b5073b199d/0134d959-bedb-4729-ac22-c3b5073b199d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Corey_Feldman_Photo_Op_GalaxyCon_Richmond_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q375419",
+    "imageFile": "Corey Feldman Photo Op GalaxyCon Richmond 2023.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals from Ft. Lauderdale, USA",
+    "imageCredit": "S2_01625",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "f2d63b061aad",
@@ -824,7 +956,7 @@
     "roles": [
       "actor"
     ],
-    "price": 6.0,
+    "price": 6,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -856,12 +988,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/damian-chapa?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/1f127e39-ffee-4ee7-9d46-c8cb6c5a63f6/1f127e39-ffee-4ee7-9d46-c8cb6c5a63f6-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Damian_Chapa_adjusted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q927017",
+    "imageFile": "Damian Chapa adjusted.jpg",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageArtist": "derivative work: Tabercil (talk) Damian_Chapa.jpg: Credit to lukeford.net (permission statement at en:User:Tabercil/Luke Ford permission)",
+    "imageCredit": "Damian_Chapa.jpg",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a673c144eecd",
@@ -872,7 +1010,7 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -888,12 +1026,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/dan-ewing?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/5f01a698-f209-4727-aa6b-7861b9b27a7d/5f01a698-f209-4727-aa6b-7861b9b27a7d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Dan_Ewing_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q969515",
+    "imageFile": "Dan Ewing 3.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Eva Rinaldi",
+    "imageCredit": "This file was derived from: Marnie Little and Dan Ewing.jpg:",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "23fac5cc328e",
@@ -904,7 +1048,7 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -936,12 +1080,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/dana-delorenzo?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/270bc97d-bbd6-42b4-b3a4-f4cb95c39776/270bc97d-bbd6-42b4-b3a4-f4cb95c39776-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dana_DeLorenzo_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg/960px-Dana_DeLorenzo_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q21642407",
+    "imageFile": "Dana DeLorenzo Photo Op Nightmare Weekend Richmond 2023.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals from Ft. Lauderdale, USA",
+    "imageCredit": "A300098",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "505488defcad",
@@ -952,12 +1102,18 @@
     "roles": [
       "actor"
     ],
-    "price": 12.0,
+    "price": 12,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/daniel-baldwin?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f3d97436-5d7e-4b14-9c1c-373e5e219409/f3d97436-5d7e-4b14-9c1c-373e5e219409-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Daniel_Baldwin_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q432940",
+    "imageFile": "Daniel Baldwin 2016.png",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "thepaparazzigamer",
+    "imageCredit": "Daniel Baldwin talks about how many kids Alec Baldwin will have as he departs at LAX Airport in Los",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5796879d31a8",
@@ -968,12 +1124,18 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/daniel-sea?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/88ee8372-8dfa-4c4c-bffd-e6552a505a76/88ee8372-8dfa-4c4c-bffd-e6552a505a76-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Daniela_Sea_cropped_and_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q447289",
+    "imageFile": "Daniela Sea cropped and retouched.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Jere Keys",
+    "imageCredit": "Flickr",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "998c725f7227",
@@ -984,12 +1146,18 @@
     "roles": [
       "actor"
     ],
-    "price": 33.0,
+    "price": 33,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/danielle-cormack?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/817596bc-d214-4a3a-b756-7d60d34fb732/817596bc-d214-4a3a-b756-7d60d34fb732-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Danielle_Cormack_%2819444200183%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3977677",
+    "imageFile": "Danielle Cormack (19444200183) (cropped).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Eva Rinaldi",
+    "imageCredit": "Danielle Cormack",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "6b4a0210be76",
@@ -1005,7 +1173,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/danielle-harris?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b1b93882-b9e8-4f59-9ee0-ba6829b51ac8/b1b93882-b9e8-4f59-9ee0-ba6829b51ac8-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Danielle_Harris_by_Casey_Florig_%282014%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q272944",
+    "imageFile": "Danielle Harris by Casey Florig (2014) (cropped).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Casey Florig",
+    "imageCredit": "https://www.flickr.com/photos/caseyflorig/15336828965/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "4bcb29028a7b",
@@ -1021,7 +1195,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/danielle-vasinova?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/7fc9bfa7-2bc3-437e-9826-c1da67f5ffcc/7fc9bfa7-2bc3-437e-9826-c1da67f5ffcc-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Danielle_Vasinova.jpg/960px-Danielle_Vasinova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q29972776",
+    "imageFile": "Danielle Vasinova.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "Danielle Vasinova",
+    "imageCredit": "https://www.flickr.com/photos/198033238@N02/52844558475/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "61f3f190e1bd",
@@ -1032,12 +1212,18 @@
     "roles": [
       "actor"
     ],
-    "price": 45.0,
+    "price": 45,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/danny-woodburn?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/e013805e-af74-4bbd-8a62-f4ad4dd43c35/e013805e-af74-4bbd-8a62-f4ad4dd43c35-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Danny_Woodburn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1164810",
+    "imageFile": "Danny Woodburn.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Danny Woodburn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "05561e7a736c",
@@ -1048,7 +1234,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1064,12 +1250,18 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/darius-mccrary?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/04873e8b-9fee-4b00-9696-f19441d28eb7/04873e8b-9fee-4b00-9696-f19441d28eb7-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Darius_McCrary%2C_June_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q712964",
+    "imageFile": "Darius McCrary, June 2016.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Mother Love",
+    "imageCredit": "Mother Love - Darius McCrary (frame grab, 0:02)",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9ce2c75b920c",
@@ -1080,12 +1272,18 @@
     "roles": [
       "actor"
     ],
-    "price": 41.0,
+    "price": 41,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/dave-foley?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/be8e358f-7e3f-49ab-ab45-4e4d33ab7361/be8e358f-7e3f-49ab-ab45-4e4d33ab7361-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dave_Foley_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q607793",
+    "imageFile": "Dave Foley 2012.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Jesse Grant via Canadian Film Centre from Toronto, Canada",
+    "imageCredit": "CFC In LA 2012 9",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "69698ef9d67b",
@@ -1101,7 +1299,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/david-deluise?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/ceb1fb03-7ed2-4749-bfd4-65a30ae3d2e1/ceb1fb03-7ed2-4749-bfd4-65a30ae3d2e1-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/David_DeLuise_2007.jpg/960px-David_DeLuise_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q441941",
+    "imageFile": "David DeLuise 2007.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Alexi Seale at https://www.flickr.com/people/alexirob",
+    "imageCredit": "https://www.flickr.com/photos/alexirob/4952615005",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5ae0867af74f",
@@ -1112,12 +1316,18 @@
     "roles": [
       "actor"
     ],
-    "price": 65.0,
+    "price": 65,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/david-henrie?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/235ed192-936d-4eb6-9d29-fdc659d1547b/235ed192-936d-4eb6-9d29-fdc659d1547b-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/David_Henrie_2010_alt.jpg/960px-David_Henrie_2010_alt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q297128",
+    "imageFile": "David Henrie 2010 alt.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "David_Henrie_2010.jpg: Music4mix at https://www.flickr.com/photos/music4mix/ derivative work: Tabercil (talk)",
+    "imageCredit": "David_Henrie_2010.jpg",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "92ae9651be61",
@@ -1128,12 +1338,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/david-howard-thornton?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/68e0f4a3-4724-43dc-8b71-d8f7f8234c71/68e0f4a3-4724-43dc-8b71-d8f7f8234c71-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/David_Howard_Thornton_%2854215255373%29.jpg/960px-David_Howard_Thornton_%2854215255373%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q115171090",
+    "imageFile": "David Howard Thornton (54215255373).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Tim Blackmon for Galaxy Con",
+    "imageCredit": "TIMX4566",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "61eb63b7cb8e",
@@ -1144,12 +1360,18 @@
     "roles": [
       "actor"
     ],
-    "price": 90.0,
+    "price": 90,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/david-koechner?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/194b0d72-7e38-47a1-8991-478d79aa5a99/194b0d72-7e38-47a1-8991-478d79aa5a99-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/David_Koechner.jpg/960px-David_Koechner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q164328",
+    "imageFile": "David Koechner.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Eva Rinaldi",
+    "imageCredit": "David Koechner",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "228b9c38685d",
@@ -1176,12 +1398,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/dean-butler?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/5740069b-e074-427d-ba65-da6d42797824/5740069b-e074-427d-ba65-da6d42797824-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dean_Butler_Preparing_for_An_Interview_on_Fox_5_with_the_Little_House_on_the_Prairie_Cast.jpg/960px-Dean_Butler_Preparing_for_An_Interview_on_Fox_5_with_the_Little_House_on_the_Prairie_Cast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1181038",
+    "imageFile": "Dean Butler Preparing for An Interview on Fox 5 with the Little House on the Prairie Cast.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Christopher Matthew Spencer",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "261d7436db1a",
@@ -1192,12 +1420,18 @@
     "roles": [
       "actor"
     ],
-    "price": 12.0,
+    "price": 12,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/dean-mcdermott?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/cff46e20-c5e1-41a9-aa53-980128534a34/cff46e20-c5e1-41a9-aa53-980128534a34-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DeanMcDermottTIFFSept2011.jpg/960px-DeanMcDermottTIFFSept2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q715827",
+    "imageFile": "DeanMcDermottTIFFSept2011.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Naomiml",
+    "imageCredit": "https://www.flickr.com/photos/naomiml/6144634472/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1d80de784c35",
@@ -1208,12 +1442,18 @@
     "roles": [
       "actor"
     ],
-    "price": 200.0,
+    "price": 200,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/dean-norris?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/0fa3154b-ef48-4ff0-9049-73237e9783a5/0fa3154b-ef48-4ff0-9049-73237e9783a5-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dean_Norris_by_Gage_Skidmore_2.jpg/960px-Dean_Norris_by_Gage_Skidmore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q432385",
+    "imageFile": "Dean Norris by Gage Skidmore 2.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "935de4cd76eb",
@@ -1224,7 +1464,7 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1240,12 +1480,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/delaney-williams?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/4c2dd9e0-2993-432a-b2f8-9a1da35e1f25/4c2dd9e0-2993-432a-b2f8-9a1da35e1f25-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Official_Headshot_of_Delaney_Williams.jpg/960px-Official_Headshot_of_Delaney_Williams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q5253136",
+    "imageFile": "Official Headshot of Delaney Williams.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "ClintonBPhotography",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "299bf37b635c",
@@ -1256,7 +1502,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1272,7 +1518,7 @@
     "roles": [
       "actor"
     ],
-    "price": 7.0,
+    "price": 7,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1288,12 +1534,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/diane-neal?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/7e057920-4f74-4052-9894-c73925262799/7e057920-4f74-4052-9894-c73925262799-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Diane_Neal_-_Monte-Carlo_Television_Festival.JPG/960px-Diane_Neal_-_Monte-Carlo_Television_Festival.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q242586",
+    "imageFile": "Diane Neal - Monte-Carlo Television Festival.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Frantogian",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "d14b89e665ba",
@@ -1304,12 +1556,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/didi-conn?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/cad5665e-a4b4-4412-9eb2-e069d72fed85/cad5665e-a4b4-4412-9eb2-e069d72fed85-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Didi_Conn_at_Greenville_Graffiti_Car_Show_on_June_16%2C_2018.jpg/960px-Didi_Conn_at_Greenville_Graffiti_Car_Show_on_June_16%2C_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q459465",
+    "imageFile": "Didi Conn at Greenville Graffiti Car Show on June 16, 2018.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Idiot 477",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "b4d30e21192a",
@@ -1325,7 +1583,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/donald-gibb?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3b019378-f273-4240-94db-573507cfd749/3b019378-f273-4240-94db-573507cfd749-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MCCC_06_%2842287028802%29.jpg/960px-MCCC_06_%2842287028802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q443040",
+    "imageFile": "MCCC 06 (42287028802).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "GabboT",
+    "imageCredit": "MCCC 06",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "35ddbae1edf9",
@@ -1336,7 +1600,7 @@
     "roles": [
       "actor"
     ],
-    "price": 65.0,
+    "price": 65,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1352,7 +1616,7 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1368,7 +1632,7 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1384,12 +1648,18 @@
     "roles": [
       "actor"
     ],
-    "price": 28.0,
+    "price": 28,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/drew-seeley?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/15a36df1-d95d-41a1-a6d3-891464babe52/15a36df1-d95d-41a1-a6d3-891464babe52-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Drew_Seeley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q314638",
+    "imageFile": "Drew Seeley.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "swirley18",
+    "imageCredit": "Drew",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "620701c5c4a0",
@@ -1416,12 +1686,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ed-marinaro?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3c15cc84-e397-4e1d-82a9-546c275875a2/3c15cc84-e397-4e1d-82a9-546c275875a2-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ed_Marinaro_%22Hill_Street_Blues%22_%281981_NBC_press_photo%29.jpg/960px-Ed_Marinaro_%22Hill_Street_Blues%22_%281981_NBC_press_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1155535",
+    "imageFile": "Ed Marinaro \"Hill Street Blues\" (1981 NBC press photo).jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "NBC Television",
+    "imageCredit": "ebay: https://www.ebay.com/itm/355585709676 Archive: https://archive.ph/nJJ3I",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "be3f593e6ff7",
@@ -1437,7 +1713,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/elaine-hendrix?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/1b868862-3789-4ecc-96d9-88f9e445bd5e/1b868862-3789-4ecc-96d9-88f9e445bd5e-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Elaine_Hendrix_by_Gage_Skidmore.jpg/960px-Elaine_Hendrix_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q271620",
+    "imageFile": "Elaine Hendrix by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "4556a04950c0",
@@ -1448,12 +1730,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/emily-peachey?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/0eaa163d-7f10-4890-a748-940b1488b072/0eaa163d-7f10-4890-a748-940b1488b072-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emily_Peachey%2C_December_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q5372311",
+    "imageFile": "Emily Peachey, December 2016.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Mother Love",
+    "imageCredit": "Mother Love - Emily Peachy (frame grab, 0:03)",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "b4effd248c7d",
@@ -1464,12 +1752,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/eric-roberts?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/1fd505c2-edb6-496e-b77b-c81e02a159f0/1fd505c2-edb6-496e-b77b-c81e02a159f0-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eric_Roberts_2025.jpg/960px-Eric_Roberts_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q207969",
+    "imageFile": "Eric Roberts 2025.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Miguel Discart &amp; Kiri Karma",
+    "imageCredit": "https://www.flickr.com/photos/miguel_discart_vrac_3/54883636562/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "3506442dd352",
@@ -1480,7 +1774,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1496,12 +1790,18 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/erik-estrada?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/433e80e6-a565-40f8-ba6e-c83516c68e90/433e80e6-a565-40f8-ba6e-c83516c68e90-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Erik_Estrada%2C_actor%2C_at_Big_Lick_Comic_Con_in_Roanoke%2C_Va_in_February_2026_%2855087999330%29.jpg/960px-Erik_Estrada%2C_actor%2C_at_Big_Lick_Comic_Con_in_Roanoke%2C_Va_in_February_2026_%2855087999330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q706338",
+    "imageFile": "Erik Estrada, actor, at Big Lick Comic Con in Roanoke, Va in February 2026 (55087999330).jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "John Manard",
+    "imageCredit": "Erik Estrada, actor, at Big Lick Comic Con in Roanoke, Va in February 2026",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "718c732e6a4d",
@@ -1528,12 +1828,18 @@
     "roles": [
       "actor"
     ],
-    "price": 95.0,
+    "price": 95,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ernie-hudson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/e9abd84e-fd70-4e9a-be76-5420df793255/e9abd84e-fd70-4e9a-be76-5420df793255-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ernie_Hudson_Photo_Op_GalaxyCon_Richmond_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q471018",
+    "imageFile": "Ernie Hudson Photo Op GalaxyCon Richmond 2019.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals",
+    "imageCredit": "https://www.flickr.com/photos/superfestivals/48649018168",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "26c976475529",
@@ -1544,12 +1850,18 @@
     "roles": [
       "actor"
     ],
-    "price": 68.0,
+    "price": 68,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ewen-macintosh?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/1beed5a3-9d39-4b09-b5d3-e109faf4ada0/1beed5a3-9d39-4b09-b5d3-e109faf4ada0-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ewen_Macintosh.jpg/960px-Ewen_Macintosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q5418983",
+    "imageFile": "Ewen Macintosh.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Work for hire owned by the subject",
+    "imageCredit": "photosubmission@wikimedia.org",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "50ceabccf0e9",
@@ -1560,7 +1872,7 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1576,7 +1888,7 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1592,7 +1904,7 @@
     "roles": [
       "actor"
     ],
-    "price": 38.0,
+    "price": 38,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1608,12 +1920,18 @@
     "roles": [
       "actor"
     ],
-    "price": 35.0,
+    "price": 35,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/galen-gering?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/7bed1eb7-7feb-4843-98c7-6de563e170b1/7bed1eb7-7feb-4843-98c7-6de563e170b1-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Galen_Gering.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q4355833",
+    "imageFile": "Galen Gering.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Popular Press Media Group",
+    "imageCredit": "https://www.flickr.com/photos/8381967@N05/6182987540/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "66524aa8ad6d",
@@ -1624,12 +1942,18 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/geno-segers?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a294e5ad-0e81-49a8-a37d-9f7cc47a61be/a294e5ad-0e81-49a8-a37d-9f7cc47a61be-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Geno_Segers1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1141482",
+    "imageFile": "Geno Segers1.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Segersg",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "12597a97d13a",
@@ -1640,12 +1964,18 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/george-hardy?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/253451de-974b-44d2-a1d3-7f8b881a20a3/253451de-974b-44d2-a1d3-7f8b881a20a3-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/George_Hardy.png/960px-George_Hardy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q21931822",
+    "imageFile": "George Hardy.png",
+    "imageLicense": "Copyrighted free use",
+    "imageArtist": "Eric Hordes",
+    "imageCredit": "Own workOriginal text: eigenes Werk",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "cb9f4f1713d7",
@@ -1656,12 +1986,18 @@
     "roles": [
       "actor"
     ],
-    "price": 45.0,
+    "price": 45,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/george-newbern?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/93c99edc-b4fe-452d-8fc5-ad9ac2551ff1/93c99edc-b4fe-452d-8fc5-ad9ac2551ff1-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/George_Newbern_Muppets_Most_Wanted_Premiere_%28cropped%29.jpg/960px-George_Newbern_Muppets_Most_Wanted_Premiere_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q615200",
+    "imageFile": "George Newbern Muppets Most Wanted Premiere (cropped).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Mingle Media TV",
+    "imageCredit": "https://www.flickr.com/photos/minglemediatv/13107096803/in/set-72157642252193135",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "914fab697a4c",
@@ -1672,12 +2008,18 @@
     "roles": [
       "actor"
     ],
-    "price": 102.0,
+    "price": 102,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/graham-mctavish?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8b2f3523-c3cb-4a3e-b609-31445242ebf4/8b2f3523-c3cb-4a3e-b609-31445242ebf4-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Graham_McTavish_SDCC_2014_%28cropped%29.jpg/960px-Graham_McTavish_SDCC_2014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q609464",
+    "imageFile": "Graham McTavish SDCC 2014 (cropped).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "https://www.flickr.com/photos/gageskidmore/14602403259/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "63ac00254e38",
@@ -1688,7 +2030,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1704,7 +2046,7 @@
     "roles": [
       "actor"
     ],
-    "price": 24.0,
+    "price": 24,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1720,12 +2062,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/greg-grunberg?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/75904f0a-ab8f-46f1-a518-0e13593c5a89/75904f0a-ab8f-46f1-a518-0e13593c5a89-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Parkman_-_Greg_Grunberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q309592",
+    "imageFile": "Parkman - Greg Grunberg.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "momento mori from Kuala Lumpur, Malaysia",
+    "imageCredit": "HEROES World Tour Singapore",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "7f75c559e509",
@@ -1736,12 +2084,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/gregory-harrison?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/ff069aa5-4548-4bfa-9f14-c63d13436527/ff069aa5-4548-4bfa-9f14-c63d13436527-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gregory_Harrison_Logan%27s_Run_1977_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1545359",
+    "imageFile": "Gregory Harrison Logan's Run 1977 (cropped).JPG",
+    "imageLicense": "Public domain",
+    "imageArtist": "MGM Television",
+    "imageCredit": "eBay item photo front photo back",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "756be8dc2cbd",
@@ -1757,7 +2111,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/grizz-chapman?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/2b2e99de-3420-47b0-94a2-0f7664edd2ba/2b2e99de-3420-47b0-94a2-0f7664edd2ba-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Grizz_Chapman_-_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q5609772",
+    "imageFile": "Grizz Chapman - 2009.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Kristin Dos Santos, kristin.eonline.com",
+    "imageCredit": "https://www.flickr.com/photos/watchwithkristin/3226795855/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "0d9eb8d51adb",
@@ -1768,12 +2128,18 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/haaz-sleiman?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/d0e16cf5-9f96-4545-96f0-da6c3dda8f40/d0e16cf5-9f96-4545-96f0-da6c3dda8f40-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Haaz_Sleiman_2008_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q472407",
+    "imageFile": "Haaz Sleiman 2008 cropped.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "icmags derivative work: RanZag (talk)",
+    "imageCredit": "This file was derived from: Haaz Sleiman 2008.jpg:",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "24f3de212f2f",
@@ -1800,7 +2166,7 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1816,12 +2182,18 @@
     "roles": [
       "actor"
     ],
-    "price": 90.0,
+    "price": 90,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ian-mcneice?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/02d298d7-e4fe-48a3-a5f9-8f9de115cac8/02d298d7-e4fe-48a3-a5f9-8f9de115cac8-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ian_McNeice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1655608",
+    "imageFile": "Ian McNeice.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "Ian brown LRPS",
+    "imageCredit": "I, Ian Brown LRPS, created this work entirely by myself.",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "278c2c170371",
@@ -1832,7 +2204,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1848,7 +2220,7 @@
     "roles": [
       "actor"
     ],
-    "price": 11.0,
+    "price": 11,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1864,7 +2236,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1880,7 +2252,7 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1896,12 +2268,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/jacob-young?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/992c6c8a-8282-4537-b648-17e7eef463e5/992c6c8a-8282-4537-b648-17e7eef463e5-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jacob-Young.jpg/960px-Jacob-Young.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1139261",
+    "imageFile": "Jacob-Young.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Rcade at English Wikipedia",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "69d65924c6e5",
@@ -1912,12 +2290,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/jaleel-white?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/16a8dfe3-6da9-4ecf-886e-57da9500359b/16a8dfe3-6da9-4ecf-886e-57da9500359b-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jaleel_White_at_Galaxy_Con_Columbus.jpg/960px-Jaleel_White_at_Galaxy_Con_Columbus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q358306",
+    "imageFile": "Jaleel White at Galaxy Con Columbus.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "John Manard",
+    "imageCredit": "https://www.flickr.com/photos/145739041@N05/55000428539/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "6ae9f14f70fc",
@@ -1928,12 +2312,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/james-daly?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8e13b25a-a3cb-4f61-9cf8-e77ae4bbeb37/8e13b25a-a3cb-4f61-9cf8-e77ae4bbeb37-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/James_Daly_Medical_Center_1975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1287406",
+    "imageFile": "James Daly Medical Center 1975.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "CBS staff?",
+    "imageCredit": "Ebay link",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "cdaa4b9c6e65",
@@ -1960,7 +2350,7 @@
     "roles": [
       "actor"
     ],
-    "price": 7.0,
+    "price": 7,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1976,7 +2366,7 @@
     "roles": [
       "actor"
     ],
-    "price": 80.0,
+    "price": 80,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -1992,7 +2382,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2008,7 +2398,7 @@
     "roles": [
       "actor"
     ],
-    "price": 18.0,
+    "price": 18,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2024,7 +2414,7 @@
     "roles": [
       "actor"
     ],
-    "price": 150.0,
+    "price": 150,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2040,7 +2430,7 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2056,7 +2446,7 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2088,12 +2478,18 @@
     "roles": [
       "actor"
     ],
-    "price": 37.0,
+    "price": 37,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/jeff-east?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/6ec7ba3f-ba78-4100-9ba7-fb937c903fbc/6ec7ba3f-ba78-4100-9ba7-fb937c903fbc-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tom_Sawyer_Jeff_East_1972_No_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3176482",
+    "imageFile": "Tom Sawyer Jeff East 1972 No 2.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "United Artists",
+    "imageCredit": "eBay item #1 photo front photo backeBay item #2 photo front photo back",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "eb21349e0de7",
@@ -2120,7 +2516,7 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2136,7 +2532,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2152,12 +2548,18 @@
     "roles": [
       "actor"
     ],
-    "price": 22.0,
+    "price": 22,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/jessica-amlee?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/6bd77f78-71d0-4db2-a7e7-75b279f549f7/6bd77f78-71d0-4db2-a7e7-75b279f549f7-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jessica_Amlee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3177643",
+    "imageFile": "Jessica Amlee.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Hybrid LLC",
+    "imageCredit": "Kidnapped: The Hannah Anderson Story | Behind the Scenes 2015 | Scott Patterson, Jessica Amlee",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "acb71caec9ab",
@@ -2168,7 +2570,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2189,7 +2591,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/jim-tavare?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/99a27006-c10a-44bd-a326-be4ac090d375/99a27006-c10a-44bd-a326-be4ac090d375-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jim_Tavare_1.jpg/960px-Jim_Tavare_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q3178953",
+    "imageFile": "Jim Tavare 1.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "[[User:|SB1]]",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "bded1bd32e19",
@@ -2200,12 +2608,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/joe-pantoliano?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/26c2fe20-446b-455e-b80a-eb8ee38e3d40/26c2fe20-446b-455e-b80a-eb8ee38e3d40-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/JoePantolianonavy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q296883",
+    "imageFile": "JoePantolianonavy.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "U.S. Navy photo by Photographer's Mate Airman Anthony Riddle",
+    "imageCredit": "http://www.news.navy.mil/view_single.asp?id=24830",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "87f0d6439517",
@@ -2216,12 +2630,18 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/john-ashton?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f0ab4a59-9112-47d8-aa91-f91ea943c400/f0ab4a59-9112-47d8-aa91-f91ea943c400-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/John_Ashton_2017_%28cropped%29.JPG/960px-John_Ashton_2017_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q955818",
+    "imageFile": "John Ashton 2017 (cropped).JPG",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Steven Friedel",
+    "imageCredit": "FotoMedia.Store",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "ee782ed61978",
@@ -2232,7 +2652,7 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2248,12 +2668,18 @@
     "roles": [
       "actor"
     ],
-    "price": 200.0,
+    "price": 200,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/john-c-mcginley?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/47d67643-9678-4122-bd36-98d9b2ca82ce/47d67643-9678-4122-bd36-98d9b2ca82ce-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Germann_with_Sircar_and_McGinley_2022_%28edited%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q316032",
+    "imageFile": "Germann with Sircar and McGinley 2022 (edited).png",
+    "imageLicense": "Public domain",
+    "imageArtist": "U.S. Army National Guard photo by Spc. Kevin T. Brown Jr.",
+    "imageCredit": "https://www.dvidshub.net/image/7464130/soldiers-meet-hollywood-ambassadors",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "bc2bcd79e2e5",
@@ -2264,7 +2690,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2280,7 +2706,7 @@
     "roles": [
       "actor"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2296,12 +2722,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/john-ross-bowie?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c87ab3b6-f29c-4495-815f-a08cedd690f9/c87ab3b6-f29c-4495-815f-a08cedd690f9-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/John_Ross_Bowie_by_Gage_Skidmore.jpg/960px-John_Ross_Bowie_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q3809587",
+    "imageFile": "John Ross Bowie by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "473efaf224f5",
@@ -2312,12 +2744,18 @@
     "roles": [
       "actor"
     ],
-    "price": 150.0,
+    "price": 150,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/john-schneider?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/fdee3e64-0170-4f1a-b0a7-5f28bd2a7b6f/fdee3e64-0170-4f1a-b0a7-5f28bd2a7b6f-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JohnSchneiderB_yPhilKOnstantinPublicDomainCropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q286642",
+    "imageFile": "JohnSchneiderB yPhilKOnstantinPublicDomainCropped.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "Philkon Phil Konstantin. Cropped and edited by Entheta",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "e0dbbdbd2ff0",
@@ -2328,12 +2766,18 @@
     "roles": [
       "actor"
     ],
-    "price": 27.0,
+    "price": 27,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/john-thomson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/caf0005b-07c0-4e40-b70a-ce73645804ba/caf0005b-07c0-4e40-b70a-ce73645804ba-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/John_Thomson_%28comedian%29_1.jpg/960px-John_Thomson_%28comedian%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1701933",
+    "imageFile": "John Thomson (comedian) 1.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "University of Salford Press Office",
+    "imageCredit": "https://www.flickr.com/photos/salforduniversity/8577106325/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "64d8523e081f",
@@ -2349,7 +2793,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/jon-heder?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/99741f34-fe76-41ca-90b1-73297f517120/99741f34-fe76-41ca-90b1-73297f517120-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jon_Heder_by_Gage_Skidmore.jpg/960px-Jon_Heder_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q392370",
+    "imageFile": "Jon Heder by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "96e58ba48651",
@@ -2360,12 +2810,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/johnathon-goldsmith?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3d3f719c-2351-48f7-8578-11e8f8478d7c/3d3f719c-2351-48f7-8578-11e8f8478d7c-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jonathan_Goldsmith_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1255362",
+    "imageFile": "Jonathan Goldsmith 2009.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Toglenn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "be168b8501a0",
@@ -2392,12 +2848,18 @@
     "roles": [
       "actor"
     ],
-    "price": 149.0,
+    "price": 149,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/joseph-gannascoli?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/070ecdb7-489b-4b46-aff7-a2d212e25919/070ecdb7-489b-4b46-aff7-a2d212e25919-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/6.7.11JoesphGannascoliByLuigiNovi.jpg/960px-6.7.11JoesphGannascoliByLuigiNovi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1367775",
+    "imageFile": "6.7.11JoesphGannascoliByLuigiNovi.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Nightscream",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "f73e4dade0db",
@@ -2408,7 +2870,7 @@
     "roles": [
       "actor"
     ],
-    "price": 27.0,
+    "price": 27,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2424,12 +2886,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/josh-stewart?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a17aa8ec-86ac-43b7-b300-0c08b021f729/a17aa8ec-86ac-43b7-b300-0c08b021f729-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/10.14.12JoshStewartByLuigiNovi1b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q117415",
+    "imageFile": "10.14.12JoshStewartByLuigiNovi1b.jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageArtist": "Luigi Novi",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "22ba6fc50585",
@@ -2445,7 +2913,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/joshua-malina?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b6d06f4a-5b38-4faa-a14d-dc1b6c317172/b6d06f4a-5b38-4faa-a14d-dc1b6c317172-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Joshua_Malina_at_the_inaugural_IAWTV_Awards_%28cropped%29.jpg/960px-Joshua_Malina_at_the_inaugural_IAWTV_Awards_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q60422",
+    "imageFile": "Joshua Malina at the inaugural IAWTV Awards (cropped).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Wilson Cleveland from New York City, USA",
+    "imageCredit": "Wilson Cleveland (Derek), Alexis Boozer (Bryn) and Joshua Malina at the inaugural IAWTV Awards in Las Vegas. Uploaded by Flominator",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5f01c92d08e2",
@@ -2456,7 +2930,7 @@
     "roles": [
       "actor"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2472,12 +2946,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kane-hodder?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/774d9808-6b39-4301-9109-fbacb3f6ae1e/774d9808-6b39-4301-9109-fbacb3f6ae1e-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kane_Hodder_Photo_Op_GalaxyCon_Louisville_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q465134",
+    "imageFile": "Kane Hodder Photo Op GalaxyCon Louisville 2019.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals",
+    "imageCredit": "https://www.flickr.com/photos/superfestivals/49196259747/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "db0fcb91e856",
@@ -2488,12 +2968,18 @@
     "roles": [
       "actor"
     ],
-    "price": 90.0,
+    "price": 90,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kate-flannery?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c14edc11-3705-4ede-9f97-572a3fe311be/c14edc11-3705-4ede-9f97-572a3fe311be-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KateFlanneryJune09.jpg/960px-KateFlanneryJune09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q3028200",
+    "imageFile": "KateFlanneryJune09.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Angela George at https://www.flickr.com/photos/sharongraphics/",
+    "imageCredit": "https://www.flickr.com/photos/sharongraphics/3596813150/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "3c27a4bc023e",
@@ -2504,12 +2990,18 @@
     "roles": [
       "actor"
     ],
-    "price": 45.0,
+    "price": 45,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kate-linder?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/d02594ca-2b30-44e8-8756-98385b4052e9/d02594ca-2b30-44e8-8756-98385b4052e9-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kate_Linder_LF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q521621",
+    "imageFile": "Kate Linder LF.JPG",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageArtist": "lukeford.net",
+    "imageCredit": "http://www.lukeford.net/Images/photos/1-8-2008/DSC_0243.JPG",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5e37fc289880",
@@ -2541,7 +3033,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kelli-maroney?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/ae8dedf8-b26e-4545-a13a-6853c1c9eabc/ae8dedf8-b26e-4545-a13a-6853c1c9eabc-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kelli_Maroney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3194875",
+    "imageFile": "Kelli Maroney.jpg",
+    "imageLicense": "GFDL",
+    "imageArtist": "Unspecified",
+    "imageCredit": "http://www.classickellimaroney.com/gallery/index.php?object=001_CurrentHeadshots%2Fcur008.jpg",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "52609dcae1a8",
@@ -2552,12 +3050,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kerri-green?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/75efc03d-fa38-4227-9762-2e46c135a53c/75efc03d-fa38-4227-9762-2e46c135a53c-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kerrigreen.png/960px-Kerrigreen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q440617",
+    "imageFile": "Kerrigreen.png",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "25000elephants",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "2641a6b43d6a",
@@ -2584,12 +3088,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kevin-chamberlin?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/4f8179b8-03c4-469d-bd46-91289a575641/4f8179b8-03c4-469d-bd46-91289a575641-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kevin_Chamberlin_%2846047741285%29.jpg/960px-Kevin_Chamberlin_%2846047741285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1740104",
+    "imageFile": "Kevin Chamberlin (46047741285).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "https://www.flickr.com/photos/greg2600/",
+    "imageCredit": "https://www.flickr.com/photos/greg2600/46047741285/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "f5555dd63418",
@@ -2600,7 +3110,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2616,12 +3126,18 @@
     "roles": [
       "actor"
     ],
-    "price": 35.0,
+    "price": 35,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kevin-sorbo?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/10f6aae2-99c7-4341-928b-4035f6a38285/10f6aae2-99c7-4341-928b-4035f6a38285-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Kevin_Sorbo_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q313655",
+    "imageFile": "Kevin Sorbo 03.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Seanpanderson",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "fec333e567b0",
@@ -2632,12 +3148,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kevin-symons?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/2c7b784b-7fe4-490e-9086-88b6302ea06c/2c7b784b-7fe4-490e-9086-88b6302ea06c-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kevin_Symons_2.JPG/960px-Kevin_Symons_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q6397585",
+    "imageFile": "Kevin Symons 2.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Harry Cason, uploaded with permission of the subject",
+    "imageCredit": "photosubmission@wikimedia.org",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "8994d4285322",
@@ -2648,12 +3170,18 @@
     "roles": [
       "actor"
     ],
-    "price": 27.0,
+    "price": 27,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kieron-richardson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/15cb32c8-21c8-4ff0-8d8a-e159145d152b/15cb32c8-21c8-4ff0-8d8a-e159145d152b-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kieron_Richardson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q4394981",
+    "imageFile": "Kieron Richardson.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Ian Smith",
+    "imageCredit": "Flickr: Kieron Richardson",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "77802bd48802",
@@ -2664,12 +3192,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kim-rhodes?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a56b02ec-85c1-4d4c-af71-ad29450e2e77/a56b02ec-85c1-4d4c-af71-ad29450e2e77-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kim_Rhodes.jpg/960px-Kim_Rhodes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q235489",
+    "imageFile": "Kim Rhodes.jpg",
+    "imageLicense": "CC BY-SA 1.0",
+    "imageArtist": "Jennifer",
+    "imageCredit": "The Suite Life Taping",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "bad0d2301dc4",
@@ -2680,12 +3214,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/kiowa-gordon?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/1da14ccf-63d1-445a-8292-7a4e9ebeb470/1da14ccf-63d1-445a-8292-7a4e9ebeb470-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Paparazzo_Presents_Kiowa_Gordon_in_2009_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q553197",
+    "imageFile": "Paparazzo Presents Kiowa Gordon in 2009 (cropped).jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Paparazzo Presents",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a5b32b6eed61",
@@ -2696,7 +3236,7 @@
     "roles": [
       "actor"
     ],
-    "price": 73.0,
+    "price": 73,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2712,7 +3252,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2728,7 +3268,7 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2744,12 +3284,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/larry-wilcox?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a6537fe7-708f-4f41-b4a4-ff93f3094044/a6537fe7-708f-4f41-b4a4-ff93f3094044-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Larry_Wilcox_%2824888606753%29.jpg/960px-Larry_Wilcox_%2824888606753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q723783",
+    "imageFile": "Larry Wilcox (24888606753).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Paula R. Lively from Zanesville",
+    "imageCredit": "Wizard World Cleveland,Ohio 2-2016",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "e4091a196537",
@@ -2765,7 +3311,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/lee-ryan?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b8e17021-c533-48dc-8317-faec07318dda/b8e17021-c533-48dc-8317-faec07318dda-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lee_Ryan_2011_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q252469",
+    "imageFile": "Lee Ryan 2011 cropped.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Lee_Ryan_2011.jpg: Christoph Henrichs from Germany derivative work: RanZag (talk)",
+    "imageCredit": "Lee_Ryan_2011.jpg",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "e366b49800a9",
@@ -2776,12 +3328,18 @@
     "roles": [
       "actor"
     ],
-    "price": 110.0,
+    "price": 110,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/lester-speight?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9c3df18e-ee8f-470d-aeb7-92164675830b/9c3df18e-ee8f-470d-aeb7-92164675830b-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lester_Speight_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3830953",
+    "imageFile": "Lester Speight 2016.png",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Emily Katte",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "8b8cbe04e6f9",
@@ -2792,12 +3350,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/lew-temple?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/acd30d2c-d0ea-4c02-a030-80202a1f9604/acd30d2c-d0ea-4c02-a030-80202a1f9604-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lew_Temple_2014.jpg/960px-Lew_Temple_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q3237275",
+    "imageFile": "Lew Temple 2014.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Sam Howzit",
+    "imageCredit": "Lew Temple",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5611dab8f29d",
@@ -2824,12 +3388,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/lillo-brancato?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b1c3a7db-8f62-41fe-96af-8c51665086a2/b1c3a7db-8f62-41fe-96af-8c51665086a2-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lillo_Brancato_2023.png/960px-Lillo_Brancato_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q2279415",
+    "imageFile": "Lillo Brancato 2023.png",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "James English",
+    "imageCredit": "A Bronx Tale and Sopranos to Addiction and Prison - Actor Lillo Brancato Tells His Story",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "4a05efb76b14",
@@ -2840,12 +3410,18 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/loretta-swit?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/ee590645-8109-4b5f-b8fa-138ad26c29ff/ee590645-8109-4b5f-b8fa-138ad26c29ff-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Loretta_Swit_MASH_1972.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q238862",
+    "imageFile": "Loretta Swit MASH 1972.JPG",
+    "imageLicense": "Public domain",
+    "imageArtist": "CBS Television",
+    "imageCredit": "eBay item photo front photo back",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a553bce06148",
@@ -2856,12 +3432,18 @@
     "roles": [
       "actor"
     ],
-    "price": 13.0,
+    "price": 13,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/lori-beth-denberg?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/408dd235-03fb-4d43-9fbc-bc0841d38ed2/408dd235-03fb-4d43-9fbc-bc0841d38ed2-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lori_Beth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q6681034",
+    "imageFile": "Lori Beth.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Loribethbatch",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "f781fcb9b450",
@@ -2872,7 +3454,7 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2888,7 +3470,7 @@
     "roles": [
       "actor"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2904,12 +3486,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/mario-cimarro?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3b899a87-f3cc-4a29-a15b-a67ccc38bedb/3b899a87-f3cc-4a29-a15b-a67ccc38bedb-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mario_Cimarro%27s_Head_Shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q478460",
+    "imageFile": "Mario Cimarro's Head Shot.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Jamesort",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "768e14c9ea81",
@@ -2920,7 +3508,7 @@
     "roles": [
       "actor"
     ],
-    "price": 110.0,
+    "price": 110,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2941,7 +3529,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/marylynn-rajskub?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/4cb4f7b8-9a7c-4fcf-947a-90fac7d80663/4cb4f7b8-9a7c-4fcf-947a-90fac7d80663-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mary_Lynn_Rajskub_at_24_finale_2009_crop.jpg/960px-Mary_Lynn_Rajskub_at_24_finale_2009_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q230510",
+    "imageFile": "Mary Lynn Rajskub at 24 finale 2009 crop.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Mary_Lynn_Rajskub_at_24_finale_2009.jpg: Kristin Dos Santos from Los Angeles, California, United States derivative work: Tabercil (talk)",
+    "imageCredit": "Mary_Lynn_Rajskub_at_24_finale_2009.jpg",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "4aeffc25a564",
@@ -2968,7 +3562,7 @@
     "roles": [
       "actor"
     ],
-    "price": 13.0,
+    "price": 13,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -2984,7 +3578,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3000,7 +3594,7 @@
     "roles": [
       "actor"
     ],
-    "price": 6.0,
+    "price": 6,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3016,12 +3610,18 @@
     "roles": [
       "actor"
     ],
-    "price": 60.0,
+    "price": 60,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/maurice-benard?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/34d9fdb9-17f6-4498-b68a-ec3bbf9817ff/34d9fdb9-17f6-4498-b68a-ec3bbf9817ff-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/2005_Voice_Awards_Maurice_Benard_and_Charles_Curie_%2818426533841%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q6792865",
+    "imageFile": "2005 Voice Awards Maurice Benard and Charles Curie (18426533841) (cropped).jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "SAMHSA from Rockville",
+    "imageCredit": "2005 Voice Awards: Maurice Benard and Charles Curie",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "446571c1b167",
@@ -3032,12 +3632,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/melinda-clarke?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8c03bfa8-1da1-44d7-913b-856ac76a9c79/8c03bfa8-1da1-44d7-913b-856ac76a9c79-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Melinda_Clarke_-_Creep_I.E._Con_Aftermath_2025.jpg/960px-Melinda_Clarke_-_Creep_I.E._Con_Aftermath_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q234210",
+    "imageFile": "Melinda Clarke - Creep I.E. Con Aftermath 2025.jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageArtist": "Kevin Paul",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "0f844d661cc0",
@@ -3048,7 +3654,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3064,7 +3670,7 @@
     "roles": [
       "actor"
     ],
-    "price": 37.0,
+    "price": 37,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3080,12 +3686,18 @@
     "roles": [
       "actor"
     ],
-    "price": 150.0,
+    "price": 150,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/michael-madsen?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/1dd1cdc9-7018-4c56-9ea3-a106e89d7019/1dd1cdc9-7018-4c56-9ea3-a106e89d7019-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Madsen2.jpg/960px-Michael_Madsen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q220584",
+    "imageFile": "Michael Madsen2.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Ivan Bessedin",
+    "imageCredit": "Flickr: Michael Madsen",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "4044096203b9",
@@ -3096,7 +3708,7 @@
     "roles": [
       "actor"
     ],
-    "price": 45.0,
+    "price": 45,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3112,12 +3724,18 @@
     "roles": [
       "actor"
     ],
-    "price": 85.0,
+    "price": 85,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/michael-rosenbaum?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f26a4a9c-d7c5-4334-ac50-d4910ecc4f0f/f26a4a9c-d7c5-4334-ac50-d4910ecc4f0f-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Michael_Rosenbaum_Photo_Op_GalaxyCon_Richmond_2020.jpg/960px-Michael_Rosenbaum_Photo_Op_GalaxyCon_Richmond_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q311613",
+    "imageFile": "Michael Rosenbaum Photo Op GalaxyCon Richmond 2020.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals",
+    "imageCredit": "https://www.flickr.com/photos/superfestivals/49739232631/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "3cb7eb11c8a4",
@@ -3128,7 +3746,7 @@
     "roles": [
       "actor"
     ],
-    "price": 7.0,
+    "price": 7,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3149,7 +3767,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/michelle-morgan?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/d91f8b1e-5e05-48f2-ba7c-d67f84d0fa70/d91f8b1e-5e05-48f2-ba7c-d67f84d0fa70-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Michelle.morgan6.jpg/960px-Michelle.morgan6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q3311445",
+    "imageFile": "Michelle.morgan6.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Iulsdiana",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a12df172ceb5",
@@ -3160,7 +3784,7 @@
     "roles": [
       "actor"
     ],
-    "price": 32.0,
+    "price": 32,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3181,7 +3805,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/miltos-yerolemou?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/edb268ce-756d-46b5-99cf-48001a9a56a4/edb268ce-756d-46b5-99cf-48001a9a56a4-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Miltos_Yerolemou.jpg/960px-Miltos_Yerolemou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q19296437",
+    "imageFile": "Miltos Yerolemou.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Steven Harris from Bournemouth, UK",
+    "imageCredit": "IMG_1502 Miltos Yerolemou",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "4db705837059",
@@ -3192,12 +3822,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/morgan-fairchild?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/982b44f1-a27c-4cda-8b9c-66791ecd25cd/982b44f1-a27c-4cda-8b9c-66791ecd25cd-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Morgan_Fairchild_2012.jpg/960px-Morgan_Fairchild_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q235972",
+    "imageFile": "Morgan Fairchild 2012.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Toglenn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1bd806cf7bbe",
@@ -3208,7 +3844,7 @@
     "roles": [
       "actor"
     ],
-    "price": 60.0,
+    "price": 60,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3224,12 +3860,18 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/muntazir-ahmad?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/2c19d9c1-9ac1-4ea4-bd60-13d3bd6e0df0/2c19d9c1-9ac1-4ea4-bd60-13d3bd6e0df0-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Muntazir_Ahmad_pic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q106838737",
+    "imageFile": "Muntazir Ahmad pic.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Kofc2019",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "0b870139cbb9",
@@ -3245,7 +3887,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/nana-visitor?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/57c817b1-e38d-45a7-8c8b-3b34e9fff4d4/57c817b1-e38d-45a7-8c8b-3b34e9fff4d4-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nana_Visitor_Photo_Op_GalaxyCon_Richmond_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q231576",
+    "imageFile": "Nana Visitor Photo Op GalaxyCon Richmond 2026.jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageArtist": "Super Festivals from Ft. Lauderdale, USA",
+    "imageCredit": "A30678",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "bf3ae03c2931",
@@ -3256,12 +3904,18 @@
     "roles": [
       "actor"
     ],
-    "price": 55.0,
+    "price": 55,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/nancy-robertson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/722fdbe2-7405-43f9-a1af-a8d967ea60b5/722fdbe2-7405-43f9-a1af-a8d967ea60b5-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nancy_Robertson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q6962945",
+    "imageFile": "Nancy Robertson.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Canadian Film Centre, Jesse Grant",
+    "imageCredit": "https://www.flickr.com/photos/cfccreates/33609978915/in/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a25918cf2816",
@@ -3272,7 +3926,7 @@
     "roles": [
       "actor"
     ],
-    "price": 12.0,
+    "price": 12,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3288,7 +3942,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3304,12 +3958,18 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/nick-adams?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/00334619-b99c-4a18-8534-dff768f0648f/00334619-b99c-4a18-8534-dff768f0648f-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nick_Adams_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q7026688",
+    "imageFile": "Nick Adams 2011.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Nick Step",
+    "imageCredit": "Nick Adams Uploaded by stemoc",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "30b5fe96c724",
@@ -3320,12 +3980,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/nicole-eggert?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/d05f8cc3-9955-49a3-aeb4-ede6c1ed0d4d/d05f8cc3-9955-49a3-aeb4-ede6c1ed0d4d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Greg_and_Nicole_Eggert_at_the_Chiller_Theatre_Expo_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q269934",
+    "imageFile": "Greg and Nicole Eggert at the Chiller Theatre Expo 2017 (cropped).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Rob DiCaterino",
+    "imageCredit": "https://www.flickr.com/photos/goodrob13/26253852019/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "a48bbb5f2e2e",
@@ -3352,12 +4018,18 @@
     "roles": [
       "actor"
     ],
-    "price": 16.0,
+    "price": 16,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/nikita?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3a960592-ebd8-4976-9d23-d1b87405b6ac/3a960592-ebd8-4976-9d23-d1b87405b6ac-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rockbj%C3%B6rnen_2024_%2835%29.jpg/960px-Rockbj%C3%B6rnen_2024_%2835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q107483746",
+    "imageFile": "Rockbjörnen 2024 (35).jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageArtist": "Jytte Lindberg",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "57f9e6d87041",
@@ -3368,12 +4040,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/noah-hathaway?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/091167f5-029c-45a6-a945-0fab9b28865b/091167f5-029c-45a6-a945-0fab9b28865b-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Noah_Hathaway.jpg/960px-Noah_Hathaway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q266458",
+    "imageFile": "Noah Hathaway.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Eva Rinaldi",
+    "imageCredit": "Noah Hathaway",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "8e4dc5b43772",
@@ -3384,7 +4062,7 @@
     "roles": [
       "actor"
     ],
-    "price": 90.0,
+    "price": 90,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3400,12 +4078,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/noel-macneal?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/94e5a5e8-cf28-4078-87a0-71103675db02/94e5a5e8-cf28-4078-87a0-71103675db02-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Noel_MacNeal_Photo_Op_GalaxyCon_Raleigh_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q7047085",
+    "imageFile": "Noel MacNeal Photo Op GalaxyCon Raleigh 2023.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals from Ft. Lauderdale, USA",
+    "imageCredit": "A30656",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "40c427ae4403",
@@ -3416,12 +4100,18 @@
     "roles": [
       "actor"
     ],
-    "price": 11.0,
+    "price": 11,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ola-rapace?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3a9d523a-5e32-4adc-a8c5-e56505662df9/3a9d523a-5e32-4adc-a8c5-e56505662df9-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ola_Rapace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q521623",
+    "imageFile": "Ola Rapace.jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageArtist": "Studio Allsvenskan",
+    "imageCredit": "YouTube – View/save archived versions on archive.org",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1ff46bdae167",
@@ -3432,12 +4122,18 @@
     "roles": [
       "actor"
     ],
-    "price": 200.0,
+    "price": 200,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/oscar-nunez?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/04564164-a4f8-4d7d-93a0-02a07e48c2d3/04564164-a4f8-4d7d-93a0-02a07e48c2d3-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2009_CUN_Award_Party_Oscar_Nu%C3%B1ez_058.JPG/960px-2009_CUN_Award_Party_Oscar_Nu%C3%B1ez_058.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1139248",
+    "imageFile": "2009 CUN Award Party Oscar Nuñez 058.JPG",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Ilya Haykinson",
+    "imageCredit": "Photographed by Ilya Haykinson, image level adjustment by Nick Moreau.",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1c7e99d03741",
@@ -3453,7 +4149,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/paul-johansson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b5c0325a-5d91-4ea8-b859-caf3545206ce/b5c0325a-5d91-4ea8-b859-caf3545206ce-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Paul_Johansson_at_Camp_As_Sayliyah%2C_Qatar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q443486",
+    "imageFile": "Paul Johansson at Camp As Sayliyah, Qatar.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "Dustin Senger Area Support Group Qatar Public Affairs Office",
+    "imageCredit": "Hollywood ambassadors start overseas tour in Qatar",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "37ee44a183d2",
@@ -3464,7 +4166,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3480,12 +4182,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/phil-morris?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/e3f133bb-2829-472d-8adc-a55cec9c96b6/e3f133bb-2829-472d-8adc-a55cec9c96b6-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Morris%2C_Phil_%282009%29_crop.jpg/960px-Morris%2C_Phil_%282009%29_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1371134",
+    "imageFile": "Morris, Phil (2009) crop.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "pinguino k from North Hollywood, USA",
+    "imageCredit": "emissary panel",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "37b91f72fcc8",
@@ -3496,12 +4204,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/phill-lewis?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/48c4d527-032f-40f6-8a0f-a6a4db290d13/48c4d527-032f-40f6-8a0f-a6a4db290d13-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Phill_Lewis_2007_%28cropped%29.jpg/960px-Phill_Lewis_2007_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q372613",
+    "imageFile": "Phill Lewis 2007 (cropped).jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Phill_Lewis.jpg: Jennifer derivative work: Hoangquan hientrang (talk)",
+    "imageCredit": "Phill_Lewis.jpg",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9c66c54256c5",
@@ -3517,7 +4231,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/pooja-shah?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3dd9f473-dd44-4ef4-bdef-727e1e3ebc99/3dd9f473-dd44-4ef4-bdef-727e1e3ebc99-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pooja_Shah.jpg/960px-Pooja_Shah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q7228531",
+    "imageFile": "Pooja Shah.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "John Clark",
+    "imageCredit": "DescriptionPooja Shah.jpg {{Pooja Shah}} Date Image e-mailed to uploader with GFDL license on 2019-07-01. Source Image e-mailed to uploader (en:User:BennyOnTheLoose) with Creative Commons license, in response to an e-mail request. Author John Clark Permission(Reusing this file) Creative Commons license received with image.",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "01c53a2feada",
@@ -3528,7 +4248,7 @@
     "roles": [
       "actor"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3544,12 +4264,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/quinton-aaron?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/decd407e-8cd9-4556-9281-0d76e18bdf76/decd407e-8cd9-4556-9281-0d76e18bdf76-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Quinton_Aaron_2010.jpg/960px-Quinton_Aaron_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q2093874",
+    "imageFile": "Quinton Aaron 2010.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Toglenn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "b6430fe50382",
@@ -3560,7 +4286,7 @@
     "roles": [
       "actor"
     ],
-    "price": 80.0,
+    "price": 80,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3576,12 +4302,18 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/raphael-sbarge?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8ec10478-9b02-4ba2-8338-e19d6c95f379/8ec10478-9b02-4ba2-8338-e19d6c95f379-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Raphael_Sbarge_at_PaleyFest_2012.jpg/960px-Raphael_Sbarge_at_PaleyFest_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q277099",
+    "imageFile": "Raphael Sbarge at PaleyFest 2012.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "FanGeek.com",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "af6ccf25d48b",
@@ -3592,12 +4324,18 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ray-abruzzo?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/639cd61b-245b-41dd-85e3-59682987c354/639cd61b-245b-41dd-85e3-59682987c354-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ray_Abruzzo_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q276618",
+    "imageFile": "Ray Abruzzo 2016.png",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "thepaparazzigamer",
+    "imageCredit": "Ray Abruzzo at the 2nd Annual Carney Awards at Paley Center in Beverly Hills",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "6a42a2f1a369",
@@ -3608,7 +4346,7 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3624,7 +4362,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3645,7 +4383,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/richard-karn?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/a6709a23-ec54-4d0c-9ae4-9a8e9b9656c5/a6709a23-ec54-4d0c-9ae4-9a8e9b9656c5-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Richard_Karn_2015.jpg/960px-Richard_Karn_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1344562",
+    "imageFile": "Richard Karn 2015.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Rob DiCaterino",
+    "imageCredit": "https://www.flickr.com/photos/goodrob13/16660082783/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5366ca046656",
@@ -3656,7 +4400,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3688,12 +4432,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/robert-clotworthy?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/e6a20507-a147-4167-90cc-0bba74c9b265/e6a20507-a147-4167-90cc-0bba74c9b265-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Robert_Clotworthy_Headshot.JPG/960px-Robert_Clotworthy_Headshot.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q794378",
+    "imageFile": "Robert Clotworthy Headshot.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Robert Clotworthy",
+    "imageCredit": "Robert Clotworthy",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "f1e10d9b6c4c",
@@ -3704,12 +4454,18 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/robert-duncan-mcneill?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/108e6c93-61c7-461d-bbf8-435ccd5a19ef/108e6c93-61c7-461d-bbf8-435ccd5a19ef-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Robert_Duncan_McNeill_by_Gage_Skidmore.jpg/960px-Robert_Duncan_McNeill_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q508333",
+    "imageFile": "Robert Duncan McNeill by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "0c6fce5cf5fa",
@@ -3720,12 +4476,18 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/robert-picardo?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/bd88f9b8-35e4-44d5-a8e0-e22cfce3e96a/bd88f9b8-35e4-44d5-a8e0-e22cfce3e96a-processed.png?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_Picardo_by_Gage_Skidmore.jpg/960px-Robert_Picardo_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q313789",
+    "imageFile": "Robert Picardo by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "95497330df46",
@@ -3736,7 +4498,7 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3752,7 +4514,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3768,12 +4530,18 @@
     "roles": [
       "actor"
     ],
-    "price": 23.0,
+    "price": 23,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/robyn-lively?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/89d67eae-dee1-44c9-8c4d-1a3dd5aece7d/89d67eae-dee1-44c9-8c4d-1a3dd5aece7d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Robyn_Lively_-_November_2014_%28cropped%29.jpg/960px-Robyn_Lively_-_November_2014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q469891",
+    "imageFile": "Robyn Lively - November 2014 (cropped).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Mingle Media TV",
+    "imageCredit": "https://www.flickr.com/photos/minglemediatv/15821893885/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "28bbd90e565e",
@@ -3784,7 +4552,7 @@
     "roles": [
       "actor"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3800,7 +4568,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3816,7 +4584,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3832,12 +4600,18 @@
     "roles": [
       "actor"
     ],
-    "price": 27.0,
+    "price": 27,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ross-adams?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/055b8124-3ed7-4795-bb27-2516e68332d0/055b8124-3ed7-4795-bb27-2516e68332d0-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ross_Adams_-_June_2018.jpg/960px-Ross_Adams_-_June_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q7369167",
+    "imageFile": "Ross Adams - June 2018.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Rossadam3000",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "d8fc02778a9a",
@@ -3848,12 +4622,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ryan-carnes?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c201b733-0739-4cd0-b097-42e8e791ff3e/c201b733-0739-4cd0-b097-42e8e791ff3e-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ryan_Carnes_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q683235",
+    "imageFile": "Ryan Carnes 15.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Greg Hernandez from California, CA, USA",
+    "imageCredit": "11609_10152997000326387_8765690093548570755_n",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "03c4ccd50137",
@@ -3864,12 +4644,18 @@
     "roles": [
       "actor"
     ],
-    "price": 175.0,
+    "price": 175,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/ryan-hurst?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/5ecfd923-dc0f-4f7c-a865-c641a487ca83/5ecfd923-dc0f-4f7c-a865-c641a487ca83-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ryan_Hurst_by_Gage_Skidmore.jpg/960px-Ryan_Hurst_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q621099",
+    "imageFile": "Ryan Hurst by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1f40f43a794f",
@@ -3880,12 +4666,18 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/sam-horrigan?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/0f617ed6-606c-46bb-a64b-8581955f7efa/0f617ed6-606c-46bb-a64b-8581955f7efa-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sam_Horrigan_2_2012.jpg/960px-Sam_Horrigan_2_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q2216513",
+    "imageFile": "Sam Horrigan 2 2012.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Toglenn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "d3da162c5965",
@@ -3896,12 +4688,18 @@
     "roles": [
       "actor"
     ],
-    "price": 37.0,
+    "price": 37,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/sam-witwer?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/95d77234-da35-4cb5-b831-48794e8eae75/95d77234-da35-4cb5-b831-48794e8eae75-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sam_Witwer_by_Gage_Skidmore.jpg/960px-Sam_Witwer_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q18918",
+    "imageFile": "Sam Witwer by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "cecda5c11ce5",
@@ -3912,7 +4710,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3928,7 +4726,7 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -3949,7 +4747,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/scott-michael-campbell?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/3da7bd39-de26-463e-a3eb-4c9ba989ebba/3da7bd39-de26-463e-a3eb-4c9ba989ebba-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Scott_Michael_Campbell_on_RealTVfilms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q3952855",
+    "imageFile": "Scott Michael Campbell on RealTVfilms.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "RealTVfilms",
+    "imageCredit": "Scott Michael Campbell, The Mourning Hour Screening, Grauman's Egyptian Theatre on Vimeo at 01:43, cropped, brightened",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "fd981c05cec0",
@@ -3960,12 +4764,18 @@
     "roles": [
       "actor"
     ],
-    "price": 150.0,
+    "price": 150,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/scott-patterson?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9ab4206c-90d9-4028-863d-aaad1193a180/9ab4206c-90d9-4028-863d-aaad1193a180-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Scott_Patterson_Photo_Op_GalaxyCon_Richmond_2020.jpg/960px-Scott_Patterson_Photo_Op_GalaxyCon_Richmond_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q546119",
+    "imageFile": "Scott Patterson Photo Op GalaxyCon Richmond 2020.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Super Festivals",
+    "imageCredit": "https://www.flickr.com/photos/superfestivals/49739671947/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "6068615a4d80",
@@ -3976,12 +4786,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/sean-kanan?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/cfd9371b-d9b5-4af0-a4f6-fbffbd481587/cfd9371b-d9b5-4af0-a4f6-fbffbd481587-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sean_Kanan_-_Creep_I.E._Con_Aftermath_2025.jpg/960px-Sean_Kanan_-_Creep_I.E._Con_Aftermath_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q549596",
+    "imageFile": "Sean Kanan - Creep I.E. Con Aftermath 2025.jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageArtist": "Kevin Paul",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "1456c773eff5",
@@ -3992,12 +4808,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/sean-patrick-flanery?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/e7a578a8-5134-4925-a078-0fc018f12e4b/e7a578a8-5134-4925-a078-0fc018f12e4b-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sean_Patrick_Flanery_April_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q447967",
+    "imageFile": "Sean Patrick Flanery April 2014.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Rob DiCaterino from Clifton, NJ, USA",
+    "imageCredit": "Chiller Theatre Expo, Parsippany, NJ 4/26/14",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "81cf2f0a031a",
@@ -4008,7 +4830,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4024,12 +4846,18 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/shawn-hatosy?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c3d27790-6b18-4e8b-a67b-bcc9fc20d154/c3d27790-6b18-4e8b-a67b-bcc9fc20d154-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Shawn_Hatosy_2011.jpg/960px-Shawn_Hatosy_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q723027",
+    "imageFile": "Shawn Hatosy 2011.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Genevieve",
+    "imageCredit": "Shawn Hatosy",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "42b60a1d9206",
@@ -4040,7 +4868,7 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4056,7 +4884,7 @@
     "roles": [
       "actor"
     ],
-    "price": 38.0,
+    "price": 38,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4072,12 +4900,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/sofia-milos?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8b674c61-3114-44e5-8715-38780f138888/8b674c61-3114-44e5-8715-38780f138888-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sophia_Milos_2010.jpg/960px-Sophia_Milos_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q235472",
+    "imageFile": "Sophia Milos 2010.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Toglenn",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "5442b57c77a4",
@@ -4093,7 +4927,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/spencer-wilding?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/33efead1-1186-4262-afcb-d4c35fdb052f/33efead1-1186-4262-afcb-d4c35fdb052f-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Spencer_Wilding_at_the_Pan_Premiere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q7576224",
+    "imageFile": "Spencer Wilding at the Pan Premiere.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Ibsan73",
+    "imageCredit": "https://www.flickr.com/photos/63465486@N07/21595633542/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "dd1e3dbd520f",
@@ -4104,12 +4944,18 @@
     "roles": [
       "actor"
     ],
-    "price": 65.0,
+    "price": 65,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/stacey-dash?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/dcafb613-0291-4ff0-886c-d3781cd6e6a6/dcafb613-0291-4ff0-886c-d3781cd6e6a6-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stacey_Dash_%2825514874102%29_%28cropped%29.jpg/960px-Stacey_Dash_%2825514874102%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q454328",
+    "imageFile": "Stacey Dash (25514874102) (cropped).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageArtist": "Gage Skidmore from Peoria, AZ, United States of America",
+    "imageCredit": "Stacey Dash",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "58b79adf3502",
@@ -4120,7 +4966,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4136,12 +4982,18 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/stephanie-nogueras?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9de77d2b-3e59-40db-aef7-9c868f622720/9de77d2b-3e59-40db-aef7-9c868f622720-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stephanie-nogueras-at-killing-it-premier-20220406-190921.jpg/960px-Stephanie-nogueras-at-killing-it-premier-20220406-190921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q56073206",
+    "imageFile": "Stephanie-nogueras-at-killing-it-premier-20220406-190921.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Kaylito",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "fcc5987d0176",
@@ -4157,7 +5009,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/stephen-hunter?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/313385d0-0497-472d-8d05-fbeb84551f3f/313385d0-0497-472d-8d05-fbeb84551f3f-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stephen_Hunter.jpg/960px-Stephen_Hunter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q1033115",
+    "imageFile": "Stephen Hunter.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Mike Walen",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "b94c389d306e",
@@ -4168,7 +5026,7 @@
     "roles": [
       "actor"
     ],
-    "price": 23.0,
+    "price": 23,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4184,12 +5042,18 @@
     "roles": [
       "actor"
     ],
-    "price": 45.0,
+    "price": 45,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/steven-michael-quezada?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/4334a291-9588-48ec-9467-6fd8361769d7/4334a291-9588-48ec-9467-6fd8361769d7-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Steven_Michael_Quezada_%28cropped%29.jpg/960px-Steven_Michael_Quezada_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q7615053",
+    "imageFile": "Steven Michael Quezada (cropped).jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "Jamie Burnett",
+    "imageCredit": "This image was released by the United States Air Force with the ID 150922-F-HZ870-164 (next). This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing. العربية ∙ বাংলা ∙ Bahaso Jambi ∙ Deutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "cd4ce9915958",
@@ -4200,7 +5064,7 @@
     "roles": [
       "actor"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4216,7 +5080,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4232,7 +5096,7 @@
     "roles": [
       "actor"
     ],
-    "price": 25.0,
+    "price": 25,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4248,7 +5112,7 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4269,7 +5133,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/tamzin-outhwaite?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9b6dfaef-d8de-4c4f-8f49-c3fd06e2a0be/9b6dfaef-d8de-4c4f-8f49-c3fd06e2a0be-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tamzin_Outhwaite_2015.jpg/960px-Tamzin_Outhwaite_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q3143235",
+    "imageFile": "Tamzin Outhwaite 2015.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Ibsan73",
+    "imageCredit": "https://www.flickr.com/photos/63465486@N07/17111631116/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "3f36ae25e469",
@@ -4285,7 +5155,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/tara-spencer-nairn?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/23a3b8bf-9050-4d5d-94b4-14bdebca4d0e/23a3b8bf-9050-4d5d-94b4-14bdebca4d0e-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tara_Spencer-Nairn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q2283513",
+    "imageFile": "Tara Spencer-Nairn.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "ChickAdvisor",
+    "imageCredit": "Celebrities-3",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "2c70ab7484da",
@@ -4296,7 +5172,7 @@
     "roles": [
       "actor"
     ],
-    "price": 11.0,
+    "price": 11,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4312,7 +5188,7 @@
     "roles": [
       "actor"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4328,12 +5204,18 @@
     "roles": [
       "actor"
     ],
-    "price": 100.0,
+    "price": 100,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/terry-oquinn?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b17d5565-acbb-441a-9fd3-04e6cac150f8/b17d5565-acbb-441a-9fd3-04e6cac150f8-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Terry_O%27Quinn_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q271637",
+    "imageFile": "Terry O'Quinn (2).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "THMS.nl",
+    "imageCredit": "This image has been extracted from another file",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "abbf7d4d1b35",
@@ -4360,12 +5242,18 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/theodus-crane?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/09076a7b-b56e-4684-8b23-12cb93c1269d/09076a7b-b56e-4684-8b23-12cb93c1269d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Theodus_Crane_by_Gage_Skidmore.jpg/960px-Theodus_Crane_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q27663688",
+    "imageFile": "Theodus Crane by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "c0ed93922bd2",
@@ -4376,7 +5264,7 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4392,7 +5280,7 @@
     "roles": [
       "actor"
     ],
-    "price": 200.0,
+    "price": 200,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4413,7 +5301,13 @@
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/tiana-benjamin?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/e01c36df-91c2-49ec-88f3-d5f67bf666c6/e01c36df-91c2-49ec-88f3-d5f67bf666c6-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tiana_Benjamin_-_German_Potter_Con_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q1299000",
+    "imageFile": "Tiana Benjamin - German Potter Con 2024.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "German Film &amp; Comic Con",
+    "imageCredit": "YouTube – View/save archived versions on archive.org",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "7cf030e16298",
@@ -4424,12 +5318,18 @@
     "roles": [
       "actor"
     ],
-    "price": 175.0,
+    "price": 175,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/tom-welling?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/b2ba562c-a2c1-461d-8095-6f44b7b278ad/b2ba562c-a2c1-461d-8095-6f44b7b278ad-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tom_Welling_at_Galaxy_Con_Richmond.jpg/960px-Tom_Welling_at_Galaxy_Con_Richmond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q200261",
+    "imageFile": "Tom Welling at Galaxy Con Richmond.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "John Manard",
+    "imageCredit": "https://www.flickr.com/photos/145739041@N05/55187673290/",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "840139d41f40",
@@ -4440,7 +5340,7 @@
     "roles": [
       "actor"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4456,12 +5356,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/trevor-lissauer?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8e85a4cc-7053-4a1b-8851-eaba0fc84ea3/8e85a4cc-7053-4a1b-8851-eaba0fc84ea3-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/TrevorLissauer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q351171",
+    "imageFile": "TrevorLissauer.jpg",
+    "imageLicense": "Public domain",
+    "imageArtist": "Trevorbagel at English Wikipedia",
+    "imageCredit": "Transferred from en.wikipedia to Commons.",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "670331b9637d",
@@ -4472,12 +5378,18 @@
     "roles": [
       "actor"
     ],
-    "price": 20.0,
+    "price": 20,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/tyler-barnhardt?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f0f0b17e-eec2-4f52-a04b-c7a2a6080f57/f0f0b17e-eec2-4f52-a04b-c7a2a6080f57-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tylerbarnhardt2012.png/960px-Tylerbarnhardt2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q70276703",
+    "imageFile": "Tylerbarnhardt2012.png",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageArtist": "Willthacheerleader18",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "415f5beaeee3",
@@ -4488,12 +5400,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/tyler-labine?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/8085a66f-eca5-489a-af53-1380542d043d/8085a66f-eca5-489a-af53-1380542d043d-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tyler_Labine_by_Gage_Skidmore.jpg/960px-Tyler_Labine_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://www.wikidata.org/wiki/Q934467",
+    "imageFile": "Tyler Labine by Gage Skidmore.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageArtist": "Gage Skidmore",
+    "imageCredit": "Own work",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "9ca76bb9e81a",
@@ -4504,7 +5422,7 @@
     "roles": [
       "actor"
     ],
-    "price": 65.0,
+    "price": 65,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4520,7 +5438,7 @@
     "roles": [
       "actor"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4552,12 +5470,18 @@
     "roles": [
       "actor"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/william-daniels?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/c19c4e44-1196-4813-a812-ba9da998c555/c19c4e44-1196-4813-a812-ba9da998c555-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/William_Daniels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q370181",
+    "imageFile": "William Daniels.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageArtist": "Alan Light",
+    "imageCredit": "Retrived from Flickr",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "30540cd5ddf2",
@@ -4568,7 +5492,7 @@
     "roles": [
       "actor"
     ],
-    "price": 13.0,
+    "price": 13,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4584,12 +5508,18 @@
     "roles": [
       "actor"
     ],
-    "price": 50.0,
+    "price": 50,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/yaya-dacosta?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/9e769a3a-dd66-440e-8e9c-79e352a213f7/9e769a3a-dd66-440e-8e9c-79e352a213f7-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Yaya_DaCosta%2C_Afropunk_2023_%28close-up%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q260211",
+    "imageFile": "Yaya DaCosta, Afropunk 2023 (close-up).png",
+    "imageLicense": "CC BY 3.0",
+    "imageArtist": "Keinoflo",
+    "imageCredit": "YouTube: https://www.youtube.com/watch?v=eCmYW8gxfSY&amp;ab_channel=Keinoflo – View/save archived versions on archive.org",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "74e968b470a0",
@@ -4600,12 +5530,18 @@
     "roles": [
       "actor"
     ],
-    "price": 40.0,
+    "price": 40,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
     "url": "https://memmo.me/global/en/profile/zack-ward?profileProduct=video-request-express-delivery",
-    "image": "https://memmo-live-attachments-live.imgix.net/f88ac91c-c58c-4dff-880f-08937d83bf64/f88ac91c-c58c-4dff-880f-08937d83bf64-processed.jpeg?auto=format&w=265&h=458&fit=crop"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zack_Ward_LF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://www.wikidata.org/wiki/Q139906",
+    "imageFile": "Zack Ward LF.JPG",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageArtist": "lukeford.net",
+    "imageCredit": "http://www.lukeford.net/Images/photos4/071216/53.htm",
+    "imageDescriptionUrl": ""
   },
   {
     "id": "b40db8f2d910",
@@ -4616,7 +5552,7 @@
     "roles": [
       "actor"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4632,7 +5568,7 @@
     "roles": [
       "writer"
     ],
-    "price": 13.0,
+    "price": 13,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4648,7 +5584,7 @@
     "roles": [
       "writer"
     ],
-    "price": 15.0,
+    "price": 15,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4680,7 +5616,7 @@
     "roles": [
       "producer"
     ],
-    "price": 41.0,
+    "price": 41,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4697,7 +5633,7 @@
       "writer",
       "producer"
     ],
-    "price": 75.0,
+    "price": 75,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4714,7 +5650,7 @@
       "writer",
       "producer"
     ],
-    "price": 44.0,
+    "price": 44,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4764,7 +5700,7 @@
       "writer",
       "producer"
     ],
-    "price": 12.0,
+    "price": 12,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4780,7 +5716,7 @@
     "roles": [
       "writer"
     ],
-    "price": 10.0,
+    "price": 10,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4796,7 +5732,7 @@
     "roles": [
       "writer"
     ],
-    "price": 5.0,
+    "price": 5,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4813,7 +5749,7 @@
       "writer",
       "producer"
     ],
-    "price": 17.0,
+    "price": 17,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
@@ -4830,7 +5766,7 @@
       "director",
       "writer"
     ],
-    "price": 30.0,
+    "price": 30,
     "currency": "USD",
     "delivery": "Within 24 hours",
     "source": "Memmo",
